@@ -1,0 +1,364 @@
+{
+  "annonce": {
+    "gestion": {
+      "nojo": "08-2218",
+      "rappel": null,
+      "r2": "4",
+      "r3": "49",
+      "tetierr3": "",
+      "r4": "9",
+      "tetierr4": "R\u00e9sultat de march\u00e9",
+      "k1": null,
+      "doublon": null,
+      "k9": "010208",
+      "numann": "08-2218",
+      "nomhtml": "/2008/MAPA/MAPA004013/08-2218.htm"
+    },
+    "donnees": {
+      "titreandINFOAndTYPEACTIVITEORG": [
+        {
+          "name": "INFO",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "travauxandFOURNITURESAndSERVICES": [
+              {
+                "name": "EPN",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "IDENT",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandNOMAndCODEIDENTNATIONAL": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Nom et adresse officiels de l'organisme acheteur : ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NOM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "chambre d'agriculture de maine et loir",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PRM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "services G\u00e9n\u00e9raux - logistique",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ADRESSE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "14, avenue Jox\u00e9",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CP",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "49100",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VILLE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Angers",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "OBJET",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandOBJETCOMPLETAndTITREMARCHE": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "Objet du march\u00e9 :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "OBJET_COMPLET",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "fourniture d'aliments pour le b\u00e9tail porcin et bovin de la Ferme exp\u00e9rimentale des Trinotti\u00e8res de la Chambre d'agriculture de Maine-Et-Loire",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": "PROCEDURE_ADAPTEE",
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "LOTS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "titreandNUMLOTAndNOMENCLATURE": [
+                    {
+                      "name": "TITRE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Attribution du march\u00e9 :",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "1",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "AUTRES",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "fourniture d'aliments pour le b\u00e9tail porcin",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Etablissements Peign\u00e9",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "49270",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Landemont",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MINI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "124 338 euros pour 7 mois",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MAXI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "168 490 euros pour 7 mois",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "2",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "AUTRES",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "fourniture d'aliments pour le b\u00e9tail bovin",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Etablissements Peign\u00e9",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "49270",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Landemont",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MINI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "52 912 euros",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MAXI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "88 532 euros",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ATT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "14 d\u00e9cembre 2007",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ENVOI",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "4 janvier 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CLASSES",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Classes",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "classe": [
+              "Produits de la culture et de l'\u00e9levage"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "DESCRIPTEURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$DESCRIPTEURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "descripteur": [
+              "Produits de l'agriculture"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "AUTRES",
+          "declaredType": "java.lang.String",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": "fourniture d'aliments pour le b\u00e9tail porcin et bovin de la ferme exp\u00e9rimentale des trinotti\u00e8res de la chambre d'agriculture de maine-et-loire \u00e0 Angers",
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        }
+      ]
+    }
+  },
+  "nompublication": "MAPA",
+  "dateparution": "04 JANVIER   2008",
+  "numparution": "084013"
+}

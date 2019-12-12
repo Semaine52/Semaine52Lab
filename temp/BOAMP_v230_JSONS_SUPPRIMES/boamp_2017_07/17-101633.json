@@ -1,0 +1,650 @@
+{
+  "annonce": {
+    "gestion": {
+      "nojo": "08-166514",
+      "rappel": null,
+      "r2": "4",
+      "r3": "94",
+      "tetierr3": "",
+      "r4": "9",
+      "tetierr4": "R\u00e9sultat de march\u00e9",
+      "k1": null,
+      "doublon": null,
+      "k9": "150808",
+      "numann": "08-166514",
+      "nomhtml": "/2008/MAPA/MAPA190003/08-166514.htm"
+    },
+    "donnees": {
+      "titreandINFOAndTYPEACTIVITEORG": [
+        {
+          "name": "INFO",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "travauxandFOURNITURESAndSERVICES": [
+              {
+                "name": "PUBLICATIONS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info$PUBLICATIONS",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": {
+                  "publication": [
+                    {
+                      "parutionandEDITIONAndANNONCE": [
+                        {
+                          "name": "PARUTION",
+                          "declaredType": "java.lang.String",
+                          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info$PUBLICATIONS$PUBLICATION",
+                          "value": "Mis en ligne sur Internet du 08/07/2008 au 01/08/2008",
+                          "nil": false,
+                          "globalScope": false,
+                          "typeSubstituted": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "REFERENCE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "COMMUNE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "IDENT",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandNOMAndCODEIDENTNATIONAL": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Nom et adresse officiels de l'organisme acheteur : ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NOM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "ville de Boissy-Saint-L\u00e9ger",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PRM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "M. le maire",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ADRESSE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "7, boulevard L\u00e9on R\u00e9villon",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CP",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "94470",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VILLE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Boissy-Saint-L\u00e9ger",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "OBJET",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandOBJETCOMPLETAndTITREMARCHE": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "Objet du march\u00e9 :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "OBJET_COMPLET",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "fourniture de papier et d'enveloppes pour les services et les \u00e9coles publiques de la ville de Boissy-Saint-L\u00e9ger. La pr\u00e9sente consultation a pour objet la fourniture de papier et d'enveloppes pour les besoins des services communaux et des \u00e9coles publiques de Boissy-Saint-L\u00e9ger",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": "PROCEDURE_ADAPTEE",
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "LOTS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "titreandNUMLOTAndNOMENCLATURE": [
+                    {
+                      "name": "TITRE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Attribution du march\u00e9 :",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "1",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "AUTRES",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "fourniture de papier recycl\u00e9 pour photocopieur et imprimante. Papier contenant 100 % de fibres de bois recycl\u00e9es (norme ISO 14021 ou \u00e9quivalent)",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Groupe PAPYRUS FRANCE COPADIP",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "8 \u00e0 24 rue du Cheval Blanc BP 80",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "93503",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Pantin Cedex",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "TEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "01-49-42-36-64",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "FAX",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "01-49-42-36-63",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "pf.copadip@papyrus.com",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT",
+                      "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Valeur",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": {
+                        "value": "ind\u00e9fini.",
+                        "type": null
+                      },
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MINI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "6688.96",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MAXI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "13377.92",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "2",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "AUTRES",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "fourniture de papier de reprographie. Papier contenant 100 % de fibres de bois vierges",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Groupe PAPYRUS FRANCE COPADIP",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "8 \u00e0 24 rue du Cheval Blanc BP 80",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "93503",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Pantin Cedex",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "TEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "01-49-42-36-64",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "FAX",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "01-49-42-36-63",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "pf.copadip@papyrus.com",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT",
+                      "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Valeur",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": {
+                        "value": "ind\u00e9fini.",
+                        "type": null
+                      },
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MINI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "10869.56",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MAXI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "25083.61",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "3",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "AUTRES",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "fourniture de papier \u00e0 en-tete. Papier contenant 100 % de fibres de bois vierges",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "SANS_SUITE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "4",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "AUTRES",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "fourniture d'enveloppes \u00e0 en-tete. Enveloppes conformes \u00e0 la norme NF Environnement ou \u00e9quivalent",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Groupe PAPYRUS FRANCE COPADIP",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "8 \u00e0 24 rue du Cheval Blanc BP 80",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "93503",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Pantin Cedex",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "TEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "01-49-42-36-64",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "FAX",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "01-49-42-36-63",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "pf.copadip@papyrus.com",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT",
+                      "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Valeur",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": {
+                        "value": "ind\u00e9fini.",
+                        "type": null
+                      },
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MINI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "836.12",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MAXI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "5016.72",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ATT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "2 juillet 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NB_OFFRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "8",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES_INF",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "la consultation du(des)contrat(s) peut etre effectu\u00e9e \u00e0 l'adresse de l'organisme acheteur Les concurrents \u00e9vinc\u00e9s peuvent exercer un recours de pleine juridiction devant le juge administratif dans un d\u00e9lai de deux mois \u00e0 compter de la publication du pr\u00e9sent avis",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ENVOI",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "8 juillet 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CLASSES",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Classes",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "classe": [
+              "Papiers et cartons"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "DESCRIPTEURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$DESCRIPTEURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "descripteur": [
+              "Papeterie"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "AUTRES",
+          "declaredType": "java.lang.String",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": "Fourniture de papier et d'enveloppes pour les services et les \u00e9coles publiques de la ville de Boissy-Saint-L\u00e9ger. La pr\u00e9sente consultation a pour objet la fourniture de papier et d'enveloppe",
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        }
+      ]
+    }
+  },
+  "nompublication": "MAPA",
+  "dateparution": "08 JUILLET   2008",
+  "numparution": "08190003"
+}

@@ -1,0 +1,704 @@
+{
+  "annonce": {
+    "gestion": {
+      "nojo": "08-264518",
+      "rappel": null,
+      "r2": "4",
+      "r3": "75",
+      "tetierr3": "75 - D\u00e9partement de Paris",
+      "r4": "9",
+      "tetierr4": "Avis d'attribution",
+      "k1": null,
+      "doublon": null,
+      "k9": null,
+      "numann": "175",
+      "nomhtml": "/2008/MPC/MPC20080095/200811270175C.HTM"
+    },
+    "donnees": {
+      "titreandINFOAndTYPEACTIVITEORG": [
+        {
+          "name": "IDENT",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandNOMAndCODEIDENTNATIONAL": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Nom et adresse officiels de l'organisme acheteur : ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NOM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "cas de la Ville de Paris.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PRM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": " casvp cema,",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ADRESSE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "service des finances et du contr\u00f4le 5 boulevard Diderot 75012, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CP",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "75589",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VILLE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Paris Cedex 12, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "TEL",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "01-44-67-17-58.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "TYPE_ACTIVITE_ORG",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "pouvoiradjudicateurandENTITEADJUDICATRICEAndACTSERVADMPUB": [
+              {
+                "name": "POUVOIR_ADJUDICATEUR",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ACT_SERV_ADM_PUB",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+                "value": "\u00e9tablissement public territorial.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "RECTIF",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "parutandPARUTIONAndTYPE": [
+              {
+                "name": "NO_ANN",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "115",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PARUT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "139",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "TYPE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "A",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "19 juillet 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "RECTIF",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "parutandPARUTIONAndTYPE": [
+              {
+                "name": "NO_ANN",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "117",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PARUT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "139",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "TYPE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "B",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "19 juillet 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "OBJET",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandOBJETCOMPLETAndTITREMARCHE": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "Objet du march\u00e9 :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "OBJET_COMPLET",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "travaux de transfert de la r\u00e9gie et de la caisse dans l'ancien logement de fonction de la gardienne au rez-de-chaus\u00e9e de la section du 14e arrondissement.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "EXECUTION",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "LIEU_EXEC",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "14, rue Br\u00e9zin, 75014 Paris.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CODE_NUTS",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "FR101.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CRITERES_D_ATTRIBUTION",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandCRITERESCCTPAndLISTECRITERES": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "Crit\u00e8res d'attribution retenus :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CRITERES_LISTE",
+                "declaredType": "java.lang.Object",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CRITERES_LISTE xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": true
+              },
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": " - la valeur technique jug\u00e9e \u00e0 partir d'un comparatif entre les quantitifs propos\u00e9s par le candidat dans le cctp faisant office de dpgf et les quantitatifs estim\u00e9s par le ma\u00eetre d'oeuvre / des \u00e9l\u00e9ments fournis dans le planning pr\u00e9visionnel d\u00e9compos\u00e9 par lots techniques / du m\u00e9moire technique incluant les \u00e9l\u00e9ments suivants: la m\u00e9thodologie d\u00e9taill\u00e9e de r\u00e9alisation des prestations, les moyens mat\u00e9riels et humains qui seront utilis\u00e9s par le candidat pour la bonne r\u00e9alisation de l'op\u00e9ration, les r\u00e9f\u00e9rences et fiches techniques des mat\u00e9riaux qui seront propos\u00e9s par le candaidat et, les mesures de s\u00e9curit\u00e9 et de lutte contre les nuisance li\u00e9es au chantier qui seront mises en oeuvre pendant toute la dur\u00e9e des travaux.(note de 1 \u00e0 5 pond\u00e9r\u00e9e d'un coefficient de 6; 5 \u00e9tant la meilleure note) : 60 %- le prix (note de 1 \u00e0 5 pond\u00e9r\u00e9e d'un coefficient de 4, 5 \u00e9tant la meilleure note) : 40 %.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": "PROCEDURE_ADAPTEE",
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VALEUR_ESTIMEE",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$VALEURESTIMEE",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "value": "125 108,64 EUR",
+                  "type": "HT"
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": null,
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "LOTS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "titreandNUMLOTAndNOMENCLATURE": [
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DESC",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "travaux de transfert de la r\u00e9gie et de la caisse dans l'ancien logement de fonction de la gardienne au RDC de la section du 14e arrondissement.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "ERI,",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "26, rue de Marsoulan, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "75012",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Paris.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_HT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "125 108,64 EUR.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DATE_ATT_MARCHE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "9 octobre 2008",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES_INF",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "Le pr\u00e9sent march\u00e9 peut faire l'objet d'un recours en pleine juridiction intent\u00e9 par un candidat \u00e9vinc\u00e9 dans un d\u00e9lai de deux mois \u00e0 compter de la publication du pr\u00e9sent avis d'attribution. Par ailleurs, tout tiers pr\u00e9sentant un int\u00e9r\u00eat \u00e0 agir peut intenter un recours pour exc\u00e8s de pouvoir \u00e0 l'encontre des actes d\u00e9tachables du pr\u00e9sent march\u00e9 dans un d\u00e9lai de deux mois \u00e0 compter de la publication du pr\u00e9sent avis. Le pr\u00e9sent march\u00e9 peut \u00eatre consult\u00e9 sur demande \u00e9crite envoy\u00e9e \u00e0 M. le Chef du service des travaux- 5, boulevard Diderot 75589 Paris Cedex 12.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURES_RECOURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$PROCEDURESRECOURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "instancerecours": {
+              "acheteurandNOMAndADRESSE": [
+                {
+                  "name": "ACHETEUR",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Tribunal administratif de Paris",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "ADRESSE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "7, rue Jouy, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "CP",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "75181",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "VILLE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Paris Cedex4, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "MEL",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "greffe.ta-paris@juradm.fr, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "FAX",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "01-44-59-46-46",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "AUTRES",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": ".",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                }
+              ]
+            },
+            "organemediation": null,
+            "rensrecours": null
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURES_RECOURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$PROCEDURESRECOURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "instancerecours": null,
+            "organemediation": null,
+            "rensrecours": {
+              "acheteurandNOMAndADRESSE": [
+                {
+                  "name": "ACHETEUR",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Tribunal administratif de Paris",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "ADRESSE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "7, rue Jouy, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "CP",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "75181",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "VILLE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Paris Cedex 4, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "MEL",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "greffe.ta-paris@juradm.fr, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "FAX",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "01-44-59-46-46",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "AUTRES",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": ".",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                }
+              ]
+            }
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": null,
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "DATE_ENVOI",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "5 novembre 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CLASSES",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Classes",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "classe": [
+              "Travaux de construction"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "DESCRIPTEURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$DESCRIPTEURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "descripteur": [
+              "B\u00e2timent"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "AUTRES",
+          "declaredType": "java.lang.String",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": "75 Travaux de transfert de la r\u00e9gie et de la caisse dans l'ancien logement de fonction de la gardienne au rez-de-chaus\u00e9e de la section du 14e arrondissement \u00e0 Paris",
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        }
+      ]
+    }
+  },
+  "nompublication": "BOMP C",
+  "dateparution": "27 novembre 2008",
+  "numparution": "20080095"
+}

@@ -1,0 +1,550 @@
+{
+  "annonce": {
+    "gestion": {
+      "nojo": "08-289527",
+      "rappel": null,
+      "r2": "4",
+      "r3": "29",
+      "tetierr3": "29 - Finist\u00e8re",
+      "r4": "9",
+      "tetierr4": "Avis d'attribution",
+      "k1": null,
+      "doublon": null,
+      "k9": null,
+      "numann": "46",
+      "nomhtml": "/2008/MPC/MPC20080100/200812150046C.HTM"
+    },
+    "donnees": {
+      "titreandINFOAndTYPEACTIVITEORG": [
+        {
+          "name": "INFO",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "travauxandFOURNITURESAndSERVICES": [
+              {
+                "name": "EPT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "IDENT",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandNOMAndCODEIDENTNATIONAL": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Nom et adresse officiels de l'organisme acheteur : ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NOM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "quimper Communaut\u00e9.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PRM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "M. le pr\u00e9sident de Quimper Communaut\u00e9,",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ADRESSE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "h\u00f4tel de ville et d'agglom\u00e9ration - B.P. 1759, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CP",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "29107",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VILLE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Quimper Cedex.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AGIT_POUR_AUTRE_COMPTE",
+                "declaredType": "java.lang.Boolean",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": false,
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "RECTIF",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "parutandPARUTIONAndTYPE": [
+              {
+                "name": "NO_ANN",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "33",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PARUT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "141",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "TYPE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "A",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "23 juillet 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "OBJET",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandOBJETCOMPLETAndTITREMARCHE": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "Objet du march\u00e9 :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "OBJET_COMPLET",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "am\u00e9nagement du lotissement d'activit\u00e9s du Moulin du Loc'H - 4e Tranche.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "EXECUTION",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CRITERES_D_ATTRIBUTION",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandCRITERESCCTPAndLISTECRITERES": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "Crit\u00e8res d'attribution retenus :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": "OUVERT",
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": null,
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "LOTS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "titreandNUMLOTAndNOMENCLATURE": [
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "1",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DESC",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "voirie.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "EUROVIA,",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "zi de l'hippodrome, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "29000",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Quimper.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DATE_ATT_MARCHE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "18 septembre 2008",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "2",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DESC",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "r\u00e9seaux eu, ep et aep.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "ETDE OUEST,",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "9 rue Sainte Anne du Gu\u00e9len, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "29000",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Quimper.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DATE_ATT_MARCHE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "18 septembre 2008",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "3",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DESC",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "r\u00e9seaux souples.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "CEGELEC OUEST,",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "zi de Kern\u00e9vez, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "29000",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Quimper.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DATE_ATT_MARCHE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "18 septembre 2008",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES_INF",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "Lot 1 : voirie - Attribu\u00e9 pour un montant minimum de 83 639,44 EUR (H.T.) soit 80% du d\u00e9tail estimatif et un montant maximum de 109 776,76 EUR (H.T.) soit 105% du d\u00e9tail estimatifLot 2 : R\u00e9seaux EU, EP, AEP - Attribu\u00e9 pour un montant minimum de 56 439,60 EUR (H.T.) soit 80% du d\u00e9tail estimatif et un montant maximum de 74 076,97 EUR (H.T.) soit 105% du d\u00e9tail estimatifLot 3 : R\u00e9seaux souples - Attribu\u00e9 pour un montant minimum de 55 730,00 EUR (H.T.) soit 80% du d\u00e9tail estimatif et un montant maximum de 73 145,62 EUR (H.T.) soit 105% du d\u00e9tail estimatifDate du signature du march\u00e9 par le pr\u00e9sident de Quimper Communaut\u00e9 : 27 octobre 2008Lieu o\u00f9 ce march\u00e9 peut \u00eatre consult\u00e9 : Mairie de Quimper - Service des march\u00e9s- B.P. 1759 - 29107 Quimper Cedex de 8h30 \u00e0 12h et de 14h et 17h30.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AMP",
+                "declaredType": "java.lang.Boolean",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": true,
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ENVOI",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "9 d\u00e9cembre 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CLASSES",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Classes",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "classe": [
+              "Travaux de construction"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "DESCRIPTEURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$DESCRIPTEURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "descripteur": [
+              "Alimentation en eau potable",
+              "C\u00e2blage",
+              "Canalisations",
+              "Electricit\u00e9",
+              "Terrassement",
+              "Voirie et r\u00e9seaux divers"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "AUTRES",
+          "declaredType": "java.lang.String",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": "29 am\u00e9nagement du lotissement d'activit\u00e9s du moulin du loc'h - 4e tranche \u00e0 Quimper",
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        }
+      ]
+    }
+  },
+  "nompublication": "BOMP C",
+  "dateparution": "15 d\u00e9cembre 2008",
+  "numparution": "20080100"
+}

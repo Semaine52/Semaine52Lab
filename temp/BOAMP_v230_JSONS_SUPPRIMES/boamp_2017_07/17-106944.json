@@ -1,0 +1,342 @@
+{
+  "annonce": {
+    "gestion": {
+      "nojo": "08-274230",
+      "rappel": null,
+      "r2": "4",
+      "r3": "2",
+      "tetierr3": "",
+      "r4": "9",
+      "tetierr4": "R\u00e9sultat de march\u00e9",
+      "k1": null,
+      "doublon": null,
+      "k9": "191208",
+      "numann": "08-274230",
+      "nomhtml": "/2008/MAPA/MAPA325003/08-274230.htm"
+    },
+    "donnees": {
+      "titreandINFOAndTYPEACTIVITEORG": [
+        {
+          "name": "INFO",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "travauxandFOURNITURESAndSERVICES": [
+              {
+                "name": "PUBLICATIONS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info$PUBLICATIONS",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": {
+                  "publication": [
+                    {
+                      "parutionandEDITIONAndANNONCE": [
+                        {
+                          "name": "ANNONCE",
+                          "declaredType": "java.lang.String",
+                          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info$PUBLICATIONS$PUBLICATION",
+                          "value": "08-65286",
+                          "nil": false,
+                          "globalScope": false,
+                          "typeSubstituted": false
+                        },
+                        {
+                          "name": "DATE",
+                          "declaredType": "java.lang.String",
+                          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info$PUBLICATIONS$PUBLICATION",
+                          "value": "17/03/2008",
+                          "nil": false,
+                          "globalScope": false,
+                          "typeSubstituted": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "REFERENCE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "mp 005-2008pa",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "IDENT",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandNOMAndCODEIDENTNATIONAL": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Nom et adresse officiels de l'organisme acheteur : ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NOM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "cdc du Pays des Trois Rivi\u00e8res",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PRM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "M. le pr\u00e9sident",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ADRESSE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "place rochefort BP 28",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CP",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "02830",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VILLE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Saint-Michel",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "OBJET",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandOBJETCOMPLETAndTITREMARCHE": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "Objet du march\u00e9 :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "OBJET_COMPLET",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "assistance \u00e0 maitrise d'ouvrage relatif \u00e0 un \u00e9tude de faisabilit\u00e9 d'un tranfert des eaux us\u00e9es de Saint Michel vers Hirson",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CRITERES_D_ATTRIBUTION",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandCRITERESCCTPAndLISTECRITERES": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "Crit\u00e8res d'attribution retenus :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "Offre \u00e9conomiquement la plus avantageuse appr\u00e9ci\u00e9e en fonction des crit\u00e8res \u00e9nonc\u00e9s dans le cahier des charges (r\u00e8glement de la consultation, lettre d'invitation ou document descriptif).",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": "PROCEDURE_ADAPTEE",
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "MARCHES",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$MARCHES",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "titreandNOMAndADRESSE": [
+                    {
+                      "name": "TITRE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$MARCHES",
+                      "value": "Attribution du march\u00e9 :",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$MARCHES",
+                      "value": "G2C Environnement",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$MARCHES",
+                      "value": "62223",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$MARCHES",
+                      "value": "Saint-Laurent Blangy",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT",
+                      "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Valeur",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure$MARCHES",
+                      "value": {
+                        "value": "9 901,30 euros",
+                        "type": null
+                      },
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ATT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "18 avril 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE_ENVOI",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "20 novembre 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CLASSES",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Classes",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "classe": [
+              "Services fournis principalement aux entreprises"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "DESCRIPTEURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$DESCRIPTEURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "descripteur": [
+              "Assistance technique",
+              "Etude"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "AUTRES",
+          "declaredType": "java.lang.String",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": "assistance \u00e0 maitrise d'ouvrage relatif \u00e0 un \u00e9tude de faisabilit\u00e9 d'un tranfert des eaux us\u00e9es de saint michel vers hirson",
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        }
+      ]
+    }
+  },
+  "nompublication": "MAPA",
+  "dateparution": "20 NOVEMBRE  2008",
+  "numparution": "08325003"
+}

@@ -1,0 +1,777 @@
+{
+  "annonce": {
+    "gestion": {
+      "nojo": "08-248720",
+      "rappel": null,
+      "r2": "4",
+      "r3": "13",
+      "tetierr3": "13 - Bouches-du-Rh\u00f4ne",
+      "r4": "9",
+      "tetierr4": "Avis d'attribution",
+      "k1": null,
+      "doublon": null,
+      "k9": null,
+      "numann": "22",
+      "nomhtml": "/2008/MPC/MPC20080090/200811100022C.HTM"
+    },
+    "donnees": {
+      "titreandINFOAndTYPEACTIVITEORG": [
+        {
+          "name": "INFO",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "travauxandFOURNITURESAndSERVICES": [
+              {
+                "name": "AUTRE_ORIGINE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "IDENT",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandNOMAndCODEIDENTNATIONAL": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Nom et adresse officiels de l'organisme acheteur : ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "NOM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "cci Marseille Provence.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PRM",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "M. le pr\u00e9sident de la CCIMP,",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ADRESSE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "a\u00e9roport Marseille Provence - B.P. n\u00b0 7, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CP",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "13727",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "VILLE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "Marignance Cedex, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "TEL",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "04-42-14-35-58, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "FAX",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "04-42-14-35-59, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "MEL",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "servicemarches@mrs.aero, ",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "URL",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": "http://www.marchespublics.ccimp.com.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AGIT_POUR_AUTRE_COMPTE",
+                "declaredType": "java.lang.Boolean",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Identite",
+                "value": false,
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "TYPE_ACTIVITE_ORG",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "pouvoiradjudicateurandENTITEADJUDICATRICEAndACTSERVADMPUB": [
+              {
+                "name": "ENTITE_ADJUDICATRICE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "ACT_AEROPORT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.EnumActiviteOrganisationnelle",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "RECTIF",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "parutandPARUTIONAndTYPE": [
+              {
+                "name": "NO_ANN",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "7",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "PARUT",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "94",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "TYPE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "A",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "DATE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": "16 mai 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Rectificatif",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "INFO",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "travauxandFOURNITURESAndSERVICES": [
+              {
+                "name": "REFERENCE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Info",
+                "value": "am 08 DT 019.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "OBJET",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandOBJETCOMPLETAndTITREMARCHE": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "Objet du march\u00e9 :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "OBJET_COMPLET",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "r\u00e9fection de l'\u00e9clairage du parc \u00e0 \u00e9tages P6 de l'a\u00e9roport Marseille Provence.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "EXECUTION",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "LIEU_EXEC",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "a\u00e9roport Marseille Provence, 13727 Marignane.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CODE_NUTS",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Objet",
+                "value": "FR824.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CRITERES_D_ATTRIBUTION",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "titreandCRITERESCCTPAndLISTECRITERES": [
+              {
+                "name": "TITRE",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "Crit\u00e8res d'attribution retenus :",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CRITERES_CCTP",
+                "declaredType": "java.lang.Object",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$CRITERESDATTRIBUTION",
+                "value": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CRITERES_CCTP xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": true
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": "PROCEDURE_ADAPTEE",
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "AUTRES",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": ".",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": null,
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "LOTS",
+                "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": {
+                  "titreandNUMLOTAndNOMENCLATURE": [
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NUM_LOT",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "AM 08 DT 019",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DESC",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "r\u00e9fection de l'\u00e9clairage du parc \u00e0 \u00e9tages P6 de l'a\u00e9roport Marseille Provence.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "NOM",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "C\u00e9g\u00e9lec SE,",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "ADRESSE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "route de Salon B-.P. 9, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "CP",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "13755",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "VILLE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "Les Pennes Mirabeau Cedex, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "TEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "04-42-02-30-00, ",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "FAX",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "04-42-02-31-34.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MINI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "40 000 EUR",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "MONTANT_MAXI_ANNUEL",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "160 000 EUR.",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    },
+                    {
+                      "name": "DATE_ATT_MARCHE",
+                      "declaredType": "java.lang.String",
+                      "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Lot2",
+                      "value": "12 ao\u00fbt 2008",
+                      "nil": false,
+                      "globalScope": false,
+                      "typeSubstituted": false
+                    }
+                  ]
+                },
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AUTRES_INF",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "Dur\u00e9e : 1 an ferme.",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "AMP",
+                "declaredType": "java.lang.Boolean",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": false,
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              },
+              {
+                "name": "CONCLUSION_ACCORD_CADRE",
+                "declaredType": "java.lang.Object",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CONCLUSION_ACCORD_CADRE xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": true
+              },
+              {
+                "name": "ENCHERE_ELECTRONIQUE",
+                "declaredType": "java.lang.Boolean",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": false,
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURES_RECOURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$PROCEDURESRECOURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "instancerecours": {
+              "acheteurandNOMAndADRESSE": [
+                {
+                  "name": "ACHETEUR",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Tribunal administratif de Marseille",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "ADRESSE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "22, rue Breteuil, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "CP",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "13281",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "VILLE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Marseille Cedex 06, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "TEL",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "04-91-13-48-13, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "FAX",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "04-91-81-13-87, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "URL",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "http://www.ta-marseille.juradm.fr/ta/marseille/index.shtml",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "AUTRES",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": ".",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                }
+              ]
+            },
+            "organemediation": null,
+            "rensrecours": null
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURES_RECOURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$PROCEDURESRECOURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "instancerecours": null,
+            "organemediation": null,
+            "rensrecours": {
+              "acheteurandNOMAndADRESSE": [
+                {
+                  "name": "ACHETEUR",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Greffe du tribunal Administratif de Marseille",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "ADRESSE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "22, rue Breteuil, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "CP",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "13281",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "VILLE",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "Marseille Cedex 06, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "TEL",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "04-91-13-48-13, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "FAX",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "04-91-81-13-87, ",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "URL",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": "http://www.ta-marseille.juradm.fr/ta/marseille/index.shtml",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                },
+                {
+                  "name": "AUTRES",
+                  "declaredType": "java.lang.String",
+                  "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.ContactRecours",
+                  "value": ".",
+                  "nil": false,
+                  "globalScope": false,
+                  "typeSubstituted": false
+                }
+              ]
+            }
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "PROCEDURE",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "type": null,
+            "titreandJUSTIFURGENCEAndAVIS12MOIS": [
+              {
+                "name": "DATE_ENVOI",
+                "declaredType": "java.lang.String",
+                "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Procedure",
+                "value": "3 novembre 2008",
+                "nil": false,
+                "globalScope": false,
+                "typeSubstituted": false
+              }
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "CLASSES",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Classes",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "classe": [
+              "Travaux de construction"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "DESCRIPTEURS",
+          "declaredType": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES$DESCRIPTEURS",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": {
+            "descripteur": [
+              "Eclairage public",
+              "Electricit\u00e9"
+            ]
+          },
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        },
+        {
+          "name": "AUTRES",
+          "declaredType": "java.lang.String",
+          "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v110.Annonce$DONNEES",
+          "value": "13 r\u00e9fection de l'\u00e9clairage du parc \u00e0 \u00e9tages p6 de l'a\u00e9roport marseille provence \u00e0 Marignane",
+          "nil": false,
+          "globalScope": false,
+          "typeSubstituted": false
+        }
+      ]
+    }
+  },
+  "nompublication": "BOMP C",
+  "dateparution": "10 novembre 2008",
+  "numparution": "20080090"
+}

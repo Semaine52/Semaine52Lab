@@ -1,0 +1,3066 @@
+{
+  "nbItemsRetournes": 510,
+  "nbItemsExistants": 510,
+  "item": [
+    {
+      "id": "idweb",
+      "value": "08-297402",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement du plateau du 1er \u00e9tage \u00e0 Belfort"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277483",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Exploitation et entretien des installations de chauffage \u00e0 Angers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297084",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9fection de la cl\u00f4ture p\u00e9riph\u00e9rique de la caserne Ko\u00ebnig \u00e0 St- Christol"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291021",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Plan pluriannuel de maintenance 2003 du lyc\u00e9e Stoessel \u00e0 Mulhouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298848",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "tri des mat\u00e9riaux issus de la collecte s\u00e9lective \u00e0 Pontcharra"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295238",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "77 achat et livraison de 510 jerricans souples de 20 litres pour hydrocarbures \u00e9quip\u00e9s de leurs accessoires ainsi que 50 lots d'accessoires \u00e0 Varennes sur Seine"
+    },
+    {
+      "id": "idweb",
+      "value": "08-274926",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestations de d\u00e9m\u00e9nagement des locataires du patrimoine de C\u00f4te d'azur Habitat dans le cadre du programme de r\u00e9novation urbaine du quartier \"Les Moulins\" \u00e0 Nice Saint Augustin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291426",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Terrassement, chauss\u00e9es, assainissement \u00e0 Angers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298289",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de compartimentage : remplacement des portes coupe feu de l'HIA Desgenettes, \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294208",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux pour l'am\u00e9nagement du parc des ardoisi\u00e8res (secteur aubini\u00e8re br\u00e9mandi\u00e8re) \u00e0 Angers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297572",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9fection de la toiture de la Mairie du 2e arrondissement \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296448",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9paration et entretien des installations d'\u00e9lectricit\u00e9 \u00e0 Wasquehal"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296364",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "rd 140 - am\u00e9nagement de la traverse d'agglom\u00e9ration \u00e0 Lesperon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295675",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de restructuration et de mise aux normes des locaux de cuisine et de restauration de la Direction du Service D\u00e9partemental d'Incendie et de Secours (sdis) du Morbihan \u00e0 Vannes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278787",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture, installation, entretien et exploitation de mobilier urbain \u00e0 M\u00e2con"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298522",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Extension de l'h\u00f4pital local de Chalabre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279341",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "ma\u00eetrise d'oeuvre pour la modernisation partielle avec extension du coll\u00e8ge Les Colliberts \u00e0 St Michel en l'Herm"
+    },
+    {
+      "id": "idweb",
+      "value": "08-224579",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9novation pour l'accueil de l'ecole r\u00e9gionale des avocats du grand est , 4 rue br\u00fbl\u00e9e \u00e0 strasbourg \u00e0 Strasbourg."
+    },
+    {
+      "id": "idweb",
+      "value": "08-278736",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de produits petroliers \u00e0 Floirac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297333",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement de locaux pour le centre adi au b\u00e2timent 3 bis de l'h\u00f4pital morvan et travaux annexes \u00e0 Brest"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297158",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "March\u00e9 relatif \u00e0 l'entretien des espaces verts de la base a\u00e9rienne 126 de Solenzara \u00e0 Istres Arm\u00e9es"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295714",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mission de ma\u00eetrise d'oeuvre et ordonnancement, pilotage et coordination d'un bassin de traitement des eaux pluviales \u00e0 Luisant"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279718",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en concurrence des services de t\u00e9l\u00e9communications \u00e0 Toulon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-191799",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition d'\u00e9chocardiographes \u00e0 Pessac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-290733",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de confortement de la berge de la Moselle, rive gauche le long du Bief n\u00b036 du canal des Vosges sur la commune de Bainville aux Miroirs"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278340",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation en cas de changement de titulaire de r\u00e9daction du paq du march\u00e9 dans sa 1\u00e8re version valid\u00e9e par le gip-mds ; prestations de production, de suivi et de reporting pour le GIP MDS \u00e0 paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298294",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Extension de l'h\u00f4pital local de Chalabre - march\u00e9s de travaux (appel d'offres relanc\u00e9 suite \u00e0 appel d'offres infructueux pour les lots 1, 3, 4, 6, 9 et 10)"
+    },
+    {
+      "id": "idweb",
+      "value": "08-250393",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Eau-littoral-proprete - travaux de diagnostic et de r\u00e9habilitation de r\u00e9seaux humides sans tranch\u00e9es \u00e0 Hy\u00e8res"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295499",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de ma\u00e7onnerie de l'h\u00f4tel de ville et du groupe scolaire maurice car\u00eame \u00e0 Chartres."
+    },
+    {
+      "id": "idweb",
+      "value": "08-278727",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Portage, h\u00e9bergement et maintenance \u00e9volutive des magazines minitel de m\u00e9t\u00e9o-france \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278570",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestations de restauration pour le centre inra champenoux : comprenant la confection des repas, le fonctionnement des cuisines et de leurs annexes ainsi que du restaurant d'entreprise \u00e0 Champenoux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297334",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "March\u00e9 de ma\u00eetrise d'oeuvre dans le cadre de la cr\u00e9ation d'un r\u00e9servoir et surpresseur pour l'arrosage du parc de Figuerolles \u00e0 Martigues"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297543",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour l'am\u00e9nagement d'ouvrages pour la desserte maritime du Fort de Bouc \u00e0 Martigues"
+    },
+    {
+      "id": "idweb",
+      "value": "08-276945",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de mat\u00e9riel d'\u00e9clairage public n\u00e9cessaires aux besoins du service \"eclairage public\" de la ville \u00e0 Vitry-Le-Fran\u00e7ois"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294075",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'am\u00e9nagement du carrefour de la colline (en carrefour giratoire) sur la rn2 \u00e0 Fort-De-France"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298389",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fournitures de mat\u00e9riels didactiques d'enseignement g\u00e9n\u00e9ral et technologique \u00e0 Sainte Clotilde"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298944",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "d\u00e9molition d'un immeuble de 60 logements \u00e0 Delle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296335",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'am\u00e9nagement de la Z.A. de la Beucherie \u00e0 Laval"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278285",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "achat et maintenance d'outils et mat\u00e9riels destin\u00e9s \u00e0 l'entretien de la route \u00e0 Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298143",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "maintenance et fournitures li\u00e9es \u00e0 l'entretien et \u00e0 la reglementation des ascenseurs et monte-charges de l'ensemble des sites de l'universit\u00e9 \u00e0 Poitiers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277639",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition de boites de vitesses et de moteurs pour les autobus du r\u00e9seau de transports urbains de Limoges M\u00e9tropole"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297978",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9alisation de travaux d'assainissement et d'alimentation en eau potable, r\u00e9alisation des tranch\u00e9es, fourniture des canalisations et accessoires, r\u00e9alisation des r\u00e9fections de tranch\u00e9es \u00e0 Quiberon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297602",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en conformit\u00e9 des r\u00e9seaux d'assainissement quai des hautes rives - rue des bateliers - chemin du gu\u00e9 \u00e0 Champigneulles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277487",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "88 nettoyage et entretien des locaux et des vitres au 1] RT \u00e0 Epinal"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279958",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture, installation, mise en service et maintenance d'un acc\u00e9l\u00e9rateur de particules pour le service de radioth\u00e9rapie du Centre Hospitalier Jean Monnet \u00e0 Epinal"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280042",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de bandelettes (r\u00e9actifs) pour la d\u00e9tection du glucose dans le sang avec mise \u00e0 disposition gratuite des lecteurs pour le chu \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-225629",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ex\u00e9cution de diff\u00e9rents travaux de composition et / ou mise en page de publications pour la Documentation fran\u00e7aise - Services du Premier ministre \u00e0 Aubervilliers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280160",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "creation d'un port fluvial \u00e0 Gron"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293211",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "restauration int\u00e9rieure de la salle d'audience et mise aux normes des installations \u00e9lectriques dans l'ancien parlement de la dombes \u00e0 tr\u00e9voux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-234952",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "V\u00e9rification des aires de jeux et de certains \u00e9quipements de sport de la ville de Nice."
+    },
+    {
+      "id": "idweb",
+      "value": "08-297259",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Impression et livraison du journal \"Expressions- les nouvelles de V\u00e9nissieux\" \u00e0 V\u00e9nissieux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277937",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "maintenance pr\u00e9ventive et corrective des installations de plomberie des b\u00e2timents de l'administration centrale du minist\u00e8re de l'enseignement sup\u00e9rieur et de la recherche \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295232",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition d'un cribleur mobile \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-284347",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de travaux pour la construction de vestiaires handicap\u00e9s au complexe sportif chante-cigale \u00e0 Gujan-Mestras"
+    },
+    {
+      "id": "idweb",
+      "value": "08-225033",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "08 nettoyage et entretien des locaux et des vitres au profits du 3] RG, de la DMD, du CIRAT et de la SLI \u00e0 Charleville - M\u00e9zi\u00e8res"
+    },
+    {
+      "id": "idweb",
+      "value": "08-275707",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "restructuration et extension de la cuisine du coll\u00e8ge Dont duplan \u00e0 N\u00eemes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299227",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9habilitation d'ouvrages en b\u00e9ton de la station d'\u00e9puration Amphitria \u00e0 la Seyne sur Mer"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289096",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Liaison routi\u00e8re rd 624 - rd 933 \u00e0 Mont-De-Marsan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-275700",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Exploitation des services de transports scolaires pour la commune du Tampon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297507",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement d'un giratoire d\u00e9nivel\u00e9 rue des Fr\u00e8res Lumi\u00e8re \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278383",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission de Ma\u00eetrise d' oeuvre partielle - pilotage de chantier pour la modernisation du parc de stationnement Pyramides \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277684",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition d'autobus \u00e0 Limoges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278186",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux pour la r\u00e9alisation d'une 2\u00e8me tranche de terrassements, Voie nouvelle challans St jean de monts"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278648",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestation de relev\u00e9 et de notification aux op\u00e9rateurs immobilier l'ensemble des reprises \u00e0 effectuer et r\u00e9serves \u00e0 lever pr\u00e9alablement \u00e0 la remise des cl\u00e9s des immeubles \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297889",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "RD 932 - r\u00e9novation du pont sur la Doulouze \u00e0 Roquefort"
+    },
+    {
+      "id": "idweb",
+      "value": "08-244074",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "transport scolaires r\u00e9alis\u00e9s par autocars et par v\u00e9hicules d'une capacit\u00e9 maximale de 9 places, conducteur compris, pour septembre 2008 pour les besoins du Conseil G\u00e9n\u00e9ral \u00e0 Nevers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296882",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de s\u00e9curisation de la boucle 20 kv \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296863",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et pose de barri\u00e8res automatiques sur le site de la mil\u00e9trie \u00e0 Poitiers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277998",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et livraison de mobilier de bureau courant et de si\u00e8ges pour les besoins du site de l'administration centrale du minist\u00e8re charg\u00e9 de l'\u00e9ducation nationale situ\u00e9 rue R\u00e9gnault \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296614",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Assainissement et alimentation en eau potable \u00e0 Pont-de-Beauvoisin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296155",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "rd 765 - giratoire rd765 / rd158 commune de branderion terrassements et travaux annexes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-262987",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de prestations de lavage, de blanchissage et de nettoyage \u00e0 sec de linge de table et de maison pour les besoins du Minist\u00e8re des Affaires Etrang\u00e8re \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298913",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "d\u00e9molition d'un immeuble de 32 logements \u00e0 Offemont"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278626",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "\u00e9tude technico-\u00e9conomique, rapport environnemental, accompagnement juridique ; assistance \u00e0 la concertation et \u00e0 la communication \u00e0 Rennes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291293",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fabrication et livraison de repas pr\u00e9par\u00e9s pour les \u00e9coles maternelles, les \u00e9coles \u00e9l\u00e9mentaires, les accueils de loisirs, les personnes \u00e2g\u00e9es \u00e0 domicile, et la maison de la colline \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295465",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "enl\u00e8vement des graffitis et de l'affichage sauvage \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-251848",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture, livraison, installation et mise en service de mat\u00e9riels pour l'activation des r\u00e9seaux dans les EPLE pour le conseil r\u00e9gional \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297645",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9alisation d'un diagnostic technique sur l'accessibilit\u00e9 des personnes handicap\u00e9es \u00e0 Poitiers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297456",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour l'am\u00e9nagement de la maison du Parc de Figuerolles \u00e0 Martigues"
+    },
+    {
+      "id": "idweb",
+      "value": "08-282524",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "restauration des \u00e9gouts de toiture, travaux d'entretien abbaye Saint Martin les aires \u00e0 Troyes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295690",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de r\u00e9novation de l'\u00e9cole \u00e9l\u00e9mentaire Albert Camus \u00e0 Massy"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278737",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fournitures d'\u00e9chelles pour les Sapeurs-Pompiers du SDIS de Rennes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295628",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Extension du r\u00e9seau d'eaux us\u00e9es en tranch\u00e9e ouverte \u00e0 Chartres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297128",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "extension d'une station d'\u00e9puration de 6000 \u00e9quivalents/habitants - rejet en garonne par refoulement et auto-surveillance \u00e0 Cadaujac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296538",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement du lotissement le Pr\u00e9 Meunier - travaux de VRD \u00e0 Chaussan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299088",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9habilitation de la station d'\u00e9puration communale \u00e0 Villi\u00e9-Morgon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279523",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "achat de pi\u00e8ces d\u00e9tach\u00e9es pour le parc autocars et autobus de la RDTA \u00e0 Prix-Les-M\u00e9zi\u00e8res"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297631",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de restructuration du lycee Jacques Brel \u00e0 Lormont"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279342",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Traitement, stockage, et enl\u00e8vement de d\u00e9chets industriels et assimil\u00e9s \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296076",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour la r\u00e9novation des syst\u00e8mes de chauffage dans 7 coll\u00e8ges publics pour le conseil g\u00e9n\u00e9ral de la Vend\u00e9e"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299275",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Halle de Martigues - mise en s\u00e9curit\u00e9 du SSI \u00e0 Martigues."
+    },
+    {
+      "id": "idweb",
+      "value": "08-278816",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture d'outillage \u00e0 main, outils coupants, outillage \u00e9lectroportatif, outillage \u00e9lectrique fixe, outils de mesure \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279783",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de petits mat\u00e9riels, consommables et accessoires destin\u00e9s \u00e0 l'aspiration m\u00e9dicale pour l'Assistance Publique-H\u00f4pitaux Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-269638",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "impression en tr\u00e8s gros tirage de documents pour la r\u00e9gion nord - pas de calais \u00e0 Lille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295477",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission d'assistance \u00e0 ma\u00eetrise d'ouvrage dans le cadre de la r\u00e9alisation d'un bail d'entretien \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-272182",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Elaboration du dossier d'incidence au titre de la loi sur l'eau, du dossier d'enqu\u00eate pr\u00e9alable \u00e0 la d\u00e9claration d'utilit\u00e9 publique et r\u00e9alisation des investigations sur le milieu naturel \u00e0 Quimper"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297523",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "assistance \u00e0 la ma\u00eetrise d'ouvrage pour l'aide \u00e0 l'\u00e9laboration d'un sch\u00e9ma directeur informatique et organisation \u00e0 M\u00e2con"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297554",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de travaux pour la restructuration et l'extension au Lyc\u00e9e les Chartrons \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279627",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "restauration collective de l'\u00e9cole d\u00e9partementale d'incendie et de secours de la Vienne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278914",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "assistance \u00e0 ma\u00eetrise d'ouvrage portant sur l'\u00e9volution de l'application informatique concernant le maquettage la sp\u00e9cification des \u00e9volutions, r\u00e9alisation des tests, recettes associ\u00e9s \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279606",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Location avec chauffeurs d'engins et materiels de travaux publics pour terrassement et transport de materiaux \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297032",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9habilitation d'un ancien h\u00f4tel restaurant en nouvelle mairie \u00e0 Triembach au Val"
+    },
+    {
+      "id": "idweb",
+      "value": "08-275628",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation d'assurances diverses \u00e0 La Chapelle d'Abondance"
+    },
+    {
+      "id": "idweb",
+      "value": "08-260646",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture d'emballages, collecte, transport et traitement-\u00e9limination des d\u00e9chets de soins \u00e0 risques infectieux et assimil\u00e9s et des pi\u00e8ces anatomiques pour le CH des Sables D'Olonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-241391",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9alisation de travaux d'impression pour le compte du Conseil G\u00e9n\u00e9ral \u00e0 Avignon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277477",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "51 approvisionnement du Service des Essences des Arm\u00e9es (S.E.A.) en white spirit d\u00e9saromatis\u00e9 \u00e0 Bouy"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279443",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "requalification de voirie pour l'am\u00e9nagement de l'avenue louise lagrange et l' avenue charles marie brun - zi toulon est"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297750",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en oeuvre de groupes \u00e9lectrog\u00e8nes dans les \u00e9tablissements sanitaires et m\u00e9dico-sociaux du d\u00e9partement de la Creuse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297003",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux pour la reconstruction de la maison de retraite \"Le Quinconce\" \u00e0 P\u00e9ronne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299058",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux concernant la mise aux normes des installations \u00e9lectriques des b\u00e2timents 003, 036, 038 et 042 au quartier b\u00e9chereau - 12\u00e8me bsmat \u00e0 Gien"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296235",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de restructuration d'un hangar industriel, am\u00e9nagements int\u00e9rieurs et traitement des abords, route de tours \u00e0 Laval"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296002",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition et maintenance d'un photocopieur connect\u00e9 \"arts graphiques\" destin\u00e9 \u00e0 la production de l'atelier de reprographie de Perpignan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-260076",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "45 fourniture de fioul domestique pour les \u00e9tablissements de l'UGECAM du Centre et de l'ugecam Auvergne Limousin Poitou-Charentes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278222",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Suppression du passage \u00e0 niveau 58 cr\u00e9ation d'une voie nouvelle entre la rd1092 et la zac des lev\u00e9es \u00e0 Vinay"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299365",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "cursus de formation \u00e0 l'ing\u00e9nierie des syst\u00e8mes complexes \u00e0 Arcueil"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296178",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "construction de 7 logements individuels - rues du docteur Schweitzer et Pierre de Coubertin \u00e0 Reims"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279478",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "March\u00e9 de maitr\u00eese d'oeuvre relative \u00e0 l'am\u00e9nagement de la maison d\u00e9partementale des personnes Handicap\u00e9es sur le site Bel Air \u00e0 Laxou"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277321",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture d'un laser pour le traitement des t\u00e2ches pigment\u00e9es en dermatologie, destin\u00e9 au Groupe Hospitalier Haut-L\u00e9v\u00eaque \u00e0 Pessac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-270346",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition d'une solution de contenu pour la diffusion et la maintenance de l'information sur le Web pour le SHOM \u00e0 Brest"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294554",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagement d'un giratoire au carrefour de la Croix Rouge \u00e0 Guilers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-292893",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Evaluation des risques professionnels et environnementaux li\u00e9s \u00e0 l'activit\u00e9 du centre d'\u00e9tudes du bouchet et de l'impact de ces activit\u00e9s sur l'environnement \u00e0 Vert-Le-Petit"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289110",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de voirie - communes rurales - programme 2008 \u00e0 Mont-De-Marsan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296775",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "62 D\u00e9molitions de logements Impasse Blanquart,cit\u00e9 Montgr\u00e9 \u00e0 Lens"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291510",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place d'une centrifugeuse de boues \u00e0 la station d'\u00e9puration \u00e0 Metz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297622",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de ma\u00eetrise d'oeuvre - construction d'une cr\u00e8che multi accueil collectif et jardin d'enfants \u00e0 Martigues"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297008",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de pi\u00e8ces d\u00e9tach\u00e9es pour poteaux et bouches d'incendie de marque \" Pont-\u00e0-Mousson \" \u00e0 Wasquehal"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279473",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "contr\u00f4le technique pour la r\u00e9habilitation de la halle 18ter, 20,20bis rue pajol \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280244",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "\u00e9tudes en vue de l'\u00e9laboration de sch\u00e9ma directeur d'assainissement \u00e0 Aubagne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296248",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'entretien du patrimoine de la RTM \u00e0 Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291532",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "construction d'une passerelle de 38 m au-dessus des voies ferr\u00e9es pour pi\u00e9tons et cycles \u00e0 Chalon Sur Sa\u00f4ne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298179",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prise en charge du gardiennage 24h/24 et 7 j/7 pour l' H\u00f4pital Desgenettes \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279826",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Refonte des sites internet et intranet de l'Anah sous Typo3 \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297522",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction de la station d'\u00e9puration intercommunale d'Andilly"
+    },
+    {
+      "id": "idweb",
+      "value": "08-272716",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture et pose de t\u00e9l\u00e9viseurs sur le r\u00e9seau visicable du chru \u00e0 Lille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298296",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de viabilisation de la zone d'activit\u00e9s de la Promenade \u00e0 Saint Ouen de Mimbr\u00e9"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279339",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Location, installation et maintenance d'un parc de photocopieurs neufs \u00e0 Metz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279287",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de deux bacs amphidromes affect\u00e9s au transport de passagers et v\u00e9hicules sur la loire entre les points de passages : basse-indre et indret et, entre le pellerin et cou\u00ebron"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278195",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation de transcription, synth\u00e8ses et compte-rendus de r\u00e9unions, colloques, s\u00e9minaires, frappe et mise en page pour la communaut\u00e9 urbaine de Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-219241",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "eaux pluviales - phase transitoire - mise en s\u00e9curit\u00e9 du chantier du p\u00f4le logistique \u00e0 Carcassonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-290429",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise en place d'un cr\u00e9dit-bail ou sch\u00e9ma assimil\u00e9 de type location avec option d'achat portant sur le financement de 15 rames de tramway Citadis \u00e0 Grenoble"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297308",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Organisation des centres de vacances d'\u00e9t\u00e9 \u00e0 B\u00e9thune"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296453",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Assistance ma\u00eetrise d'ouvrage du traitement des r\u00e9clamations des usagers des services publics \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296656",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de p\u00e9riodiques pour la ville d'Arles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298427",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "69 Travaux de voiries et d'am\u00e9nagements ext\u00e9rieurs pour le MINDEF \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289736",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition d'une balayeuse aspiratrice \u00e0 Mont-Saint-Aignan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297782",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien et de grosses r\u00e9parations \u00e0 r\u00e9aliser au fur et \u00e0 mesure des besoins sur l'ensemble du patrimoine de l'opac de metz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281683",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'une passerelle cyclo-pi\u00e9tonne sur la Baise \u00e0 Nerac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-270096",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "95 Ma\u00eetrise d'oeuvre pour le renouvellement d'une canalisation DN 500 \u00e0 Argenteuil"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295649",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction de 320 logements \u00e9tudiants \u00e0 Pessac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278332",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9ception, transport et traitement des d\u00e9chets d'espaces verts, gestion des flux des d\u00e9ch\u00e8teries et des services municipaux \u00e0 Grenoble"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296023",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place d'un rev\u00eatement en gazon synth\u00e9tique sur le stade s\u00e9nafrica \u00e0 Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298570",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9novation des sanitaires du pc des commandants d'unit\u00e9 \u00e0 Auxonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278352",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "marche public de maitrise d'OEuvre sur esquisse pour la creation d'un centre aquatique \u00e0 Locmin\u00e9"
+    },
+    {
+      "id": "idweb",
+      "value": "08-229696",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de terrassements, assainissement et chauss\u00e9es n\u00e9cessaires \u00e0 l'am\u00e9nagement du giratoire e5 \u00e0 Bastia"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296201",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance du logiciel SIS3 d'aide \u00e0 la d\u00e9cision et suivi des interventions de secours du SDIS 33 \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277565",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de trolleybus \u00e0 Limoges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298542",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagement \u00e0 l'h\u00f4pital-sud \u00e0 Rennes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-248303",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Curage, contr\u00f4le et r\u00e9parations ponctuelles du r\u00e9seau pluvial \u00e0 Montpellier"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279594",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Souscription des contrats d'assurance pour les besoins de la commune de Wimereux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293605",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien courant des portiers phoniques lot 1 r\u00e9gion le havre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296826",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagement du tir \u00e0 l'arc \u00e0 la Calade - construction d'un b\u00e2timent en structure modulaire \u00e0 Aix-en-Provence"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296473",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Renforcement des r\u00e9seaux de distribution d'eau potable dans les diff\u00e9rentes communes du SIEPOT \u00e0 Colomiers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280127",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de renouvellement des couches de roulement sur la Rn186 \u00e0 Cr\u00e9teil"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299290",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestations de comptages routiers \u00e0 Nantes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299469",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9novation des installations plomberie et sanitaire (607 logts) \u00e0 Caen"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297709",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Remplacement de 109 vannes de sectionnement sur r\u00e9seau AEP \u00e0 Saint-Loup-sur-Semouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-241359",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9alisation d'un r\u00e9seau eaux us\u00e9es secteur nord du Bourg sur la commune de la Montagne \u00e0 Nantes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295466",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition d'un syst\u00e8me d'information \" gestion comptable et financi\u00e8re \" et des prestations 'installation, d'assistance, de formation, d'accompagnement et de maintenance \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295555",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement de la traverse du bourg sur la RD 30 - commune de La Croix Avranchin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296701",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "D\u00e9molition d'un il\u00f4t d'habitations \u00e0 Crespin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278434",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise en centre d'enfouissement technique de classe 2 des encombrants m\u00e9nagers et autres d\u00e9chets pour les besoins de la Communaut\u00e9 d'Agglom\u00e9ration \u00e0 Montb\u00e9liard"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293713",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9novation du gymnase du coll\u00e8ge Henri Wallon \u00e0 Lanester"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295790",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de menuiserie \u00e0 Montereau-Fault-Yonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297232",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'une salle culturelle \u00e0 Sissonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293045",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "location et maintenance de photocopieurs \u00e0 Amilly"
+    },
+    {
+      "id": "idweb",
+      "value": "08-229779",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de restructuration du coll\u00e8ge Robert Desnos \u00e0 Masny"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280110",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux n\u00e9cessaires \u00e0 la r\u00e9alisation des \u00e9quipements du syst\u00e8me de signalisation ferroviaire pour l'extension rattachement \u00e0 Mulhouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281986",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Route D\u00e9partementale n\u00b0 7, am\u00e9nagement de l'entr\u00e9e nord du bourg \u00e0 Ponts"
+    },
+    {
+      "id": "idweb",
+      "value": "08-269602",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien des joints de dilatation existants sur les grands ouvrages tels que les ponts et passerelles m\u00e9talliques de grande port\u00e9e pour la Communaut\u00e9 Urbaine de Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295054",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "remise en peinture des parties m\u00e9talliques des ouvrages d'art :rd 67 - pont de beuzeville la bastille, rd 148 - pont de la rayecommunes de beuzeville la bastille et montmartin en graignes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-274550",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9habilitation de logements \u00e0 La Valbonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298827",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'\u00e9clairage public dans 4 communes du sier nord vimeu \u00e0 Ault"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280156",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation de gestion d'une aire d'accueil des gens du voyage pour la ville \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296730",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9fection de la distribution d'eau potable dans des b\u00e2timents du LRBA \u00e0 Vernon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296071",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Consultation pour la gestion locative, la gestion immobili\u00e8re, la commercialisation, l'animation de centres commerciaux \u00e0 Lille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-264743",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de solut\u00e9s injectables de chlorure de sodium et de bicarbonate de sodium \u00e0 Orl\u00e9ans"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279929",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'un village d'entreprises du Senonais \u00e0 Sens"
+    },
+    {
+      "id": "idweb",
+      "value": "08-94837",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Achat de pi\u00e8ces de rechanges pour le Mat\u00e9riel A\u00e9rotransportable de D\u00e9minage de Zone \u00e0 Versailles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297788",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9seau de distribution d'eau potable, travaux courants \u00e0 Lauterbourg"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297077",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9habilitation b\u00e2timent 0008 quartier g\u00e9n\u00e9ral Rollet \u00e0 Laudun"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297448",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement des carrefours \u00e0 feux dits du \"Commissariat\" et de \"Urquijo\" \u00e0 St-Jean-de-Luz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299277",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de r\u00e9novation de c\u00e2blage informatique de la cram \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279625",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de roues et roulettes au Kremlin Bic\u00eatre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280113",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition et livraison de mat\u00e9riel pour la collecte des d\u00e9chets menagers \u00e0 Amiens"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278184",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "le pr\u00e9sent march\u00e9 a pour objet la fourniture de carburants et de combustibles pour les installations, \u00e9quipements et v\u00e9hicules du port autonome de marseille \u00e0 Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-276789",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fabrication et livraison de panneaux signal\u00e9tiques des fermes certifi\u00e9es en Agriculture Biologique pour le Conseil R\u00e9gional \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295324",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux et prestations n\u00e9cessaires \u00e0 l'installation d'une nouvelle pompe d'\u00e9puisement dans la station d'\u00e9puisement nord du port militaire de Cherbourg"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281687",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'un restaurant scolaire \u00e0 Nerac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279366",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "collecte, transport et \u00e9limination des d\u00e9chets d'activit\u00e9 de soins et \u00e0 risques infectieux pour le CH \u00e0 Bonneval"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295969",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9alisation d'un rapport analysant la situation du commerce et de l'artisanat de proximit\u00e9 et les menaces pesant sur la diversit\u00e9 commerciale et artisanale sur la commune de Perpignan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278532",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et pose de 36 armoires techniques situ\u00e9es sur les quais des stations et des plinthes de distributeurs de tickets \u00e0 Toulouse, Blagnac et Beauzelle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294923",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de moniteurs d\u00e9fibrillateurs param\u00e9triques pour le Sdis 35 \u00e0 Rennes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-290955",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9habilitation de deux logements locatifs, et am\u00e9nagement d'une boucherie, du mus\u00e9e des mariniers et de sanitaires publics \u00e0 Chouze-Sur-Loire"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279556",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour l'am\u00e9nagement du Carrefour RD 36 / rd 91 / rue H\u00e9l\u00e8ne Boucher \u00e0 Voisins-Le-Bretonneux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293982",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de ravalement de la r\u00e9sidence butte de la tuile, sise 1 \u00e0 25 place alain kartouzou, 1 \u00e0 49 butte de la tuile, 2 \u00e0 52 all\u00e9e du mont de feu \u00e0 montigny-les cormeilles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-288895",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9f\u00e9ction d'\u00e9tanch\u00e9it\u00e9 et de toitures \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277030",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de produits p\u00e9troliers raffin\u00e9s liquides \u00e0 Pont Saint Esprit"
+    },
+    {
+      "id": "idweb",
+      "value": "08-276607",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9fection de chauss\u00e9e et de confection de foss\u00e9s b\u00e9tonn\u00e9s des voies, ravine-chien, la f\u00e9lix et minot situ\u00e9e sur le territoire de la commune de Rivi\u00e8re-Sal\u00e9e"
+    },
+    {
+      "id": "idweb",
+      "value": "08-292161",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagement du carrefour de Desrochers (en carrefour giratoire) sur la RN3 \u00e0 Fort-de-France"
+    },
+    {
+      "id": "idweb",
+      "value": "08-287004",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Terrassements - assainissements - chauss\u00e9es \u00e0 Angers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296679",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9novation des chambres de la caserne La Citadelle \u00e0 Perpignan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278881",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Location et entretien de v\u00eatements de travail pour le personnel de la cuisine centrale \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296297",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9habilitation des r\u00e9seaux d'assainissement EU des rues de la Sapini\u00e8re et de Piscop - programme 2007, \u00e0 Saint Brice Sous For\u00eat (rectificatif)"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296669",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de ma\u00eetrise pour l'op\u00e9ration de mise en s\u00e9curit\u00e9 du coll\u00e8ge jean vilar \u00e0 Angers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299372",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Installation de stations de comptage routier dans le d\u00e9partement du Lot et Garonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298924",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Etude de patrimoine pour la ville d' Argenteuil"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297778",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de renouvellement de canalisations d'eau potable \u00e0 Thorign\u00e9-Fouillard"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295762",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Collecte, transport, tri et traitement des d\u00e9chets m\u00e9nagers et assimil\u00e9s recyclables \u00e0 Auzances"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299450",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9novation pour l'accueil de l'ecole r\u00e9gionale des avocats du grand est , 4 rue br\u00fbl\u00e9e \u00e0 strasbourg \u00e0 Strasbourg."
+    },
+    {
+      "id": "idweb",
+      "value": "08-278775",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance des installations d'\u00e9clairage d\u00e9coratif de la ville \u00e0 Nice"
+    },
+    {
+      "id": "idweb",
+      "value": "08-284052",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Assistance juridique sur la phase d'adoption et d'approbation du plan d'am\u00e9nagement et de d\u00e9veloppement durable de la Corse pour la Collectivit\u00e9 Territoriale de Corse \u00e0 Ajaccio"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297378",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "d\u00e9viation de la rd 84 - rd 125 - 2e tranche : liaison rd 47 / rd 125 et raccordement du barreau de la muette - travaux d'am\u00e9nagements paysagers \u00e0 Garges les Gonesse et de Bonneuil en France"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297918",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "March\u00e9 d'assurances pour le Centre Hospitalier de Redon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291911",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "ZONE PERGAUD : Cr\u00e9ation d'une rue et am\u00e9nagement d'une zone de stationnement \u00e0 Pontarlier"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298365",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et livraison des repas scolaires et p\u00e9riscolaires de la commune \u00e0 Magny En Vexin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279530",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Restructuration-extension du b\u00e2timent m\u00e9dico-chirurgical, \u00e0 Saint-Flour"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279880",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "exploitation des installations thermiques, chauffage, climatisation, ventilation, production d'eau chaude, froid et groupe \u00e9lectrog\u00e8ne du centre hospitalier Jean Monnet \u00e0 Epinal"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298753",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "ch\u00e2teau - mise en lumi\u00e8re architecturale de la cour int\u00e9rieure \u00e0 Pierrefonds"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297031",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mission de contr\u00f4le technique pour le ravalement des fa\u00e7ades et/ou les remplacements de menuiseries ext\u00e9rieures dans 4 coll\u00e8ges du d\u00e9partement, \u00e0 Evry"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297835",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "rd 765 - giratoire rd765 / rd158 commune de branderion fourniture et mise en oeuvre de grave bitume et de beton bitumineux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-272428",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "restauration du clocher de l'\u00e9glise saint-r\u00e9my \u00e0 Godoncourt"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296070",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "conclusion de contrats d'assurances pour le compte du Syndicat Mixte de la R\u00e9gion Auray Belz Quiberon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296336",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9novation des conduites d'eau potable sur l'ensemble du p\u00e9rim\u00e8tre de la R\u00e9gie des Eaux de Grenoble"
+    },
+    {
+      "id": "idweb",
+      "value": "08-291420",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Restructuration, extension et r\u00e9am\u00e9nagement de locaux \u00e0 Ingrandes-sur-Loire"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278665",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "choix d'un prestataire charg\u00e9 d'assister Fonci\u00e8re Logement pour la s\u00e9lection des gestionnaires des programmes de logements acquis sur l'ensemble du territoire national \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277079",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "93 transfert d'une partie des archives du minist\u00e8re des affaires \u00e9trang\u00e8res et europ\u00e9ennes \u00e0 La Courneuve"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294545",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9novation des locaux de la chambre des m\u00e9tiers et de l'artisanat \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-234006",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de r\u00e9habilitation et r\u00e9am\u00e9nagement de la cuisine municipale \u00e0 Gujan-Mestras"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278377",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Service d'abonnements \u00e0 des publications \u00e9dit\u00e9es en france et \u00e0 l'\u00e9tranger sur support papier, c\u00e9d\u00e9rom et \u00e9lectronique pour l'ensemble des sites du lcpc \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-183288",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance et d\u00e9placement du parc des photocopieurs des formations militaires \u00e0 terre et navigantes en r\u00e9gion maritime m\u00e9diterran\u00e9e \u00e0 Toulon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277978",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place d'espaces partag\u00e9s, fourniture et livraison du mobilier de bureau courant et des \u00e9l\u00e9ments de s\u00e9paration de ces espaces \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297574",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "installation d'un centre m\u00e9dico-social temporaire \u00e0 Labouheyre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277947",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture et pose de 34 abris de stations, de 36 m\u00e2ts signal\u00e9tiques et de 66 bancs \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297950",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "location, installation, mise en service et maintenance du parc de photocopieurs pour le Centre Hospitalier de Redon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-73459",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de r\u00e9habilitation de 846 logements \u00e0 Carros Le Neuf"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278803",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "77 Etude historique et documentaire pr\u00e9alable aux op\u00e9rations de d\u00e9tection et de d\u00e9pollution pyrotechnique \u00e0 Melun"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289060",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement d'une aire de grand passage des gens du voyage \u00e0 Mont-De-Marsan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296128",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagement de la Z.A. de la Roussi\u00e8re \u00e0 Saint Germain le Fouilloux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298510",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "transports scolaires et p\u00e9riscolaires urbain municipal \u00e0 Magny En Vexin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295998",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement du quartier d'huizelet \u00e0 Morestel"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298410",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "attribution d'un bail emphyt\u00e9otique administratif en vue de la construction d'une gendarmerie sur la commune de la croix valmer"
+    },
+    {
+      "id": "idweb",
+      "value": "08-271276",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9habilitation du groupe scolaire de bras creuux au Tampon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298669",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement de la rue du moutier et de la sente rurale n\u00b0 25 \u00e0 Behoust"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298304",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement d'une zone d'expansion des crues et de soutien d'\u00e9tiage en espace d'agr\u00e9ment naturemarch\u00e9 n\u00e9goci\u00e9 \u00e0 Dol-De-Bretagne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295129",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de mise en s\u00e9curit\u00e9 du chemin du chou \u00e0 Pontoise"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296731",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Op\u00e9ration de d\u00e9samiantage du b\u00e2timent k1 du LRBA \u00e0 Vernon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280252",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de composition de cours (pao) \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294774",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Achat de fournitures d'atelier d'Habitat Eurelien \u00e0 Chartres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-284411",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de r\u00e9novation et de r\u00e9am\u00e9nagement de la Maison Baillon \u00e0 Gujan-Mestras"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280314",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance pr\u00e9ventive et corrective des installations de chauffage/ventilation/climatisation de divers b\u00e2timents municipaux \u00e0 Levallois-Perret"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280106",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de combustibles (type granulats de sciure de bois) pour la chaufferie de l'e.p.d.a. du Glandier en Corr\u00e8ze"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295318",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise en oeuvre de mesures d'accompagnement social li\u00e9 au logement (a.s.l.l.) et des mesures d'accompagnement social personnalis\u00e9 (m.a.s.p.) sur le d\u00e9partement de la c\u00f4te-d'or."
+    },
+    {
+      "id": "idweb",
+      "value": "08-298484",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux concerne la cr\u00e9ation de parking vl/pl \u00e0 Bourges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295486",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "confortement des jet\u00e9es nord et sud du port Racinetranches 2006-2007-2008, \u00e0 Saint Germain des Vaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294084",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9paration d'ouvrages hydrauliques sur les RN 1 et RN 2006 pour les besoins du Conseil R\u00e9gional \u00e0 Fort-De-France"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278814",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "distribution de documents de communication par bo\u00eetage pour le Conseil G\u00e9n\u00e9ral \u00e0 Versailles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296512",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9alisation, envoi et traitement des tickets CAF par la CAF de la Mayenne \u00e0 Laval"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279775",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Transport de personnes \u00e0 Rungis"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281135",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition de mat\u00e9riels de Travaux Publics pour le parc d\u00e9partemental de l'equipement \u00e0 Moulins"
+    },
+    {
+      "id": "idweb",
+      "value": "08-242688",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9daction, souscription de deux conventions de gestion sur les indemnit\u00e9s aff\u00e9rentes \u00e0 la \"Protection Sociale des s.p.v\" et \"Risques statutaires\" du personnel pour le SDIS \u00e0 Cergy-Pontoise"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298757",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "collecte et transport des mat\u00e9riaux issus de la collecte s\u00e9lective \u00e0 Pontcharra"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297055",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place d'une cl\u00f4ture pour le CPIS \u00e0 Rivesaltes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280084",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance des aires et \u00e9quipements de jeux \u00e0 Bobigny"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278713",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "d\u00e9molitions de b\u00e2timents n\u00e9cessaires \u00e0 la r\u00e9alisation de l'extension du parking de Borderouge sur la ligne B du m\u00e9tro \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299034",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction de 38 logements collectifs + cabinet m\u00e9dical, quartier Rougeaux \u00e0 Calvaire St Pierre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278948",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place de 87 garages modulaires pr\u00e9fabriqu\u00e9s dans diverses r\u00e9sidences de l'oph de Vend\u00e9e"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297638",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "attribution d'un CONTRAT D'ASSURANCE GROUPE couvrant les risques financiers li\u00e9s \u00e0 la protection sociale statutaire des personnels territoriaux du Centre de Gestion FPT \u00e0 Angers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297814",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "entretien des groupes surpresseurs, d\u00e9pannage et travaux de remplacement pour l'OPH de Romainville"
+    },
+    {
+      "id": "idweb",
+      "value": "08-243106",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Concours de ma\u00eetrise d'oeuvre sur esquisse pour la construction de l'\u00e9cole maternelle Charles P\u00e9guy pour la ville de Villiers Sur Marne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279071",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Livraison et fourniture de repas et de prestations alimentaires \u00e0 Dax"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279599",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "d\u00e9molition-reconstruction du coll\u00e8ge \"parc frot\" \u00e0 meauxle coll\u00e8ge fera l'objet d'une certification hqe \u00e0 Melun"
+    },
+    {
+      "id": "idweb",
+      "value": "08-270326",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "location de bus avec chauffeur, pour la commune du Tampon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295673",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Cr\u00e9ation d'un local de stockage dans le gymnase \u00e0 Neuill\u00e9-Pont-Pierre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-255461",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place d'un service d'impression complet comprenant la location du mat\u00e9riel et son entretien \u00e0 H\u00e9rouville Saint Clair"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297553",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de viandes fra\u00eeches et de produits de charcuterie \u00e0 Redon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280158",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "op\u00e9rations de viabilit\u00e9 hivernale sur routes d\u00e9partementales du Rhone"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295084",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance des installations de chauffage et de ventilation de l'Universit\u00e9 Robert Schuman de Strasbourg"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296713",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour l'am\u00e9nagement d'une unit\u00e9 de jour et son staff h\u00f4pital de jour adolescents \u00e0 Dijon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299560",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement de zones d'expansion de crues dans le lit majeur de la rivi\u00e8re Austreberthe \u00e0 Barentin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280015",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9habilitation de l'\u00e9clairage public - rn186 \u00e0 Cr\u00e9teil"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296509",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Missions de contr\u00f4le technique au Centre Hospitalier \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297578",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestations de contrats d'assurances - 5 lots -pour la CPAM \u00e0 Tulle."
+    },
+    {
+      "id": "idweb",
+      "value": "08-279369",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Consommables m\u00e9dicaux pour le centre hospitalier d'Ajaccio"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297109",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagements qualitatifs et paysagers relatifs \u00e0 l'extension du cimeti\u00e8re \u00e0 Lognes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278185",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Impression num\u00e9rique, grands formats et oriflammes \u00e0 Lille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279812",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Op\u00e9ration de r\u00e9ception, de mise sous plis et de routage de documents \u00e9lectoraux \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298891",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de r\u00e9habilitation de logements r\u00e9partis sur quatre b\u00e2timents sis cit\u00e9 d'odre \u00e0 Boulogne Sur Mer"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296870",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de matelas \u00e0 ressorts pour formations \u00e0 terre \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279529",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "maintenance de la solution de supervision des syst\u00e8mes d'information de la Biblioth\u00e8que nationale de France \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-272711",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de treillis type bataillon de marins pompiers de marseille, polaires, bottes incendie, tuyaux souples, Union des Groupements d'Achats Publics \u00e0 Champs-sur-Marne et Marne-la-Vall\u00e9e"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278260",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "services de t\u00e9l\u00e9phonie filaire, de t\u00e9l\u00e9communications mobiles et d'acc\u00e8s \u00e0 Internet \u00e0 Rochefort"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294842",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "modernisation de la ligne sncf. caen-rennes. suppression du pn64 sur la rd 924, r\u00e9tablissement routier commune de saint sauveur la pommeraye"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295552",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "service du th\u00e9\u00e2tre- fourniture de produits de d\u00e9cors - th\u00e9\u00e2tre du capitole - ann\u00e9e 2009 \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-290810",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de t\u00e9l\u00e9copieurs pour la caisse des d\u00e9p\u00f4ts et consignations \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-273553",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de plomberie, chauffage et ventilation pour la r\u00e9habilitation et le r\u00e9am\u00e9nagement des b\u00e2timents sur le site de la direction des journaux officiels \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-283043",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de d\u00e9sinfectants, produits d'hygi\u00e8ne et consommables de st\u00e9rilisation aux adh\u00e9rents du groupement Hygi\u00e8ne de commandes du R\u00e9seau des acheteurs hospitaliers pour le CH \u00e0 Saint-Denis"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296507",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestations de transports sanitaires \u00e0 Guise"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299664",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Conseil, assistance et repr\u00e9sentation juridique de l'INPES en droit public et priv\u00e9 \u00e0 Saint Denis"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278907",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "38 acquisition d'une station d'imagerie comportant un microscope droit muni d'une t\u00eate confocale et d'un laser biphotonique puls\u00e9 au profit du CRSSA \u00e0 La Tronche"
+    },
+    {
+      "id": "idweb",
+      "value": "08-170914",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "impression, colisage et livraison de 6,5 millions de d\u00e9pliants trois volets et de 6,5 millions de lettres a4 \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296959",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "S\u00e9paration et hydrolyse des graisses de la station de traitement des eaux us\u00e9es du parc d'activit\u00e9s de Sisteron nord \u00e0 Sisteron"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278490",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "ma\u00eetrise d'oeuvre des travaux d'am\u00e9nagement des espaces publics de la z.a.c. Kleber \u00e0 Biarritz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298971",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Formation en vue de la d\u00e9livrance d'autorisation de conduite avec ou sans certificat d'aptitude \u00e0 la conduite en s\u00e9curit\u00e9 \u00e0 Aulnay-Sous-Bois"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299334",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Rd 272 - reconstruction du pont de Bataille sur le Biard sur la commune de le Laussou"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279552",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de ma\u00eetrise d'oeuvre pour la r\u00e9fection des toitures terrasse et des b\u00e9tons fa\u00e7ade du csu de l'universit\u00e9 lille 2"
+    },
+    {
+      "id": "idweb",
+      "value": "08-274898",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Assistance technique de la DDSC pour l'\u00e9laboration, la passation et l'ex\u00e9cution d'un prochain march\u00e9 d'acquisition d'une unit\u00e9 mobile de d\u00e9mantelement \u00e0 Asni\u00e8res-Sur-Seine"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299153",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement de la zone d'activit\u00e9s \" En Beauvoir \" \u00e0 Ch\u00e2teau-Gaillard"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278871",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture des services de t\u00e9l\u00e9communications de grand roanne agglom\u00e9ration \u00e0 Roanne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295471",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et installation d'un dispositif de vid\u00e9osurveillance coupl\u00e9 \u00e0 un dispositif de traitement d'image, fourniture et installation d'un syst\u00e8me de contr\u00f4le d'acc\u00e8s par badge \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279527",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "69 Ma\u00eetre d'oeuvre pour la reconstruction du lyc\u00e9e les Eaux Claires \u00e0 Grenoble"
+    },
+    {
+      "id": "idweb",
+      "value": "08-250252",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestations d'entretien des tenues textiles des sapeurs-pompiers du Nord"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298776",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de b\u00e2timent et voiries r\u00e9seaux divers en corps d'\u00e9tats s\u00e9par\u00e9s en vue de la construction de 12 logements individuels locatifs \u00e0 Maubeuge"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298772",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Souscription de contrats d'assurance des biens, des responsabilit\u00e9s et des v\u00e9hicules de la Chambre d'Agriculture de Tarn et Garonne \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296285",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Etude d'optimisation et d'am\u00e9lioration du syst\u00e8me de ventilation des stations de m\u00e9tro des ligne 1 et ligne 2 du m\u00e9tro de Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280324",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestations de gestion d'espaces publicitaires pour la CRAM Nord-Picardie \u00e0 Villeneuve D'Ascq"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299188",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement de locaux transitoires, locaux de travail du personnel \u00e0 Pau"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279591",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de services de t\u00e9l\u00e9communications \u00e0 Saint-Egr\u00e8ve"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296809",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de recalibrage du Riou de l'Argenti\u00e8re de la RN 7 jusqu'\u00e0 la passerelle en amont du pont SNcf. \u00e0 Mandelieu la Napoule"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277544",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Organisation et mise en oeuvre du forum de l'animation sociale des quartiers en Ile de France / Troph\u00e9e des associations \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296918",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Rd 1082- rectification de virages et cr\u00e9ation d'accotements sur la commune de La Versanne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-271541",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "service de transport d'enfants pour les ITEP Le Ch\u00e2telier et Chantoiseau (St Florent sur Cher)"
+    },
+    {
+      "id": "idweb",
+      "value": "08-243404",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et la livraison de consommables informatiques pour le service d\u00e9partemental d'incendie et de secours du Val d'oise"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296144",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de mise en conformit\u00e9 et d'am\u00e9nagement des bureaux de l'office public de l'habitat du Gers \u00e0 Auch"
+    },
+    {
+      "id": "idweb",
+      "value": "08-274036",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "choix d'un ma\u00eetre d'oeuvre pour la restructuration g\u00e9n\u00e9rale de la cit\u00e9 scolaire Joseph-Marie Carriat \u00e0 Bourg-En-Bresse."
+    },
+    {
+      "id": "idweb",
+      "value": "08-279872",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 public de coordination en mati\u00e8re syst\u00e8me s\u00e9curit\u00e9 incendie/r\u00e9habilitation de la halle 18ter, 20,20bis rue pajol \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298211",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise en s\u00e9curit\u00e9 du b\u00e2timent les peupliers \u00e0 Colmar"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279774",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Transport d'enfants mineurs et de jeunes majeurs pris en charge au titre de l'aide sociale \u00e0 l'enfance sur le Nord et le Sud du d\u00e9partement de l'essonne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-285970",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture et pose de mat\u00e9riels \u00e9lectriques pour les sites en France du Minist\u00e8re des Affaires Etrang\u00e8res et Europ\u00e9ennes."
+    },
+    {
+      "id": "idweb",
+      "value": "08-296240",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "March\u00e9 d'assistance, d'interm\u00e9diation et de conseil dans le cadre de la mise en oeuvre de la politique de coop\u00e9ration internationale avec la Chine et le Japon \u00e0 Nanterre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295892",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition, maintenance et support du logiciel recovery expert (re) \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-275350",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "extraction et \u00e9vacuation d'environ 8 000 \u00e0 10 000 m\u00e8tres cubes de s\u00e9diments vaseux de la darse nord du port, vers une zone d'\u00e9gouttage mise \u00e0 disposition par la commune \u00e0 5 km du port \u00e0 Audenge"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298958",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "92 Fourniture de colis repas et service d'animation \u00e0 destination des personnes ag\u00e9es pour les f\u00eates de fin d'ann\u00e9e \u00e0 Argenteuil"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297614",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9habilitation de 9 pavillons, 1 \u00e0 9 rue des Rosiers et reconstruction d'un pavillon 10 rue des rosiers \u00e0 Vaas"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279338",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise en place d'une architecture t\u00e9l\u00e9com avec infrastructure r\u00e9seau et syst\u00e8me de communications \u00e0 Saint Jean De La Ruelle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279320",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "pr\u00e9visions m\u00e9t\u00e9orologiques \u00e0 Rennes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296117",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise en oeuvre d'une base d'information dynamique multi modes \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296813",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise en place de syst\u00e8mes de vid\u00e9osurveillance sur les sites de Saint-Giniez et Saint-Pierre \u00e0 Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278196",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture et pose du mobilier urbain du r\u00e9seau zoom les communes du Grand Chalon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-219763",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de fioul domestique \u00e0 Sanc\u00e9"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279698",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de batiments dans les coll\u00e8ges publics d\u00e9partementaux \u00e0 Nantes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279944",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "cr\u00e9ation d'un centre d\u00e9di\u00e9 aux musiques actuelles et aux arts num\u00e9riques dans l'ancien th\u00e9\u00e2tre ga\u00eet\u00e9 lyrique en lots s\u00e9par\u00e9s-3\u00e8me appel d'offres concernant le lot 5:si\u00e8ges fixes \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295264",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fusion des instances metalib/sfx vers une instance unique metalib v.4/sfx v.3 et maintenance de cette instance pour le SICD de Strasbourg"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295743",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction de 21 logements locatifs \u00e0 La Teste-de-Buch"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280018",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de tenue de plong\u00e9e pour le service nautique et d'habillement pour les \u00e9quipes sp\u00e9cialis\u00e9es \u00e0 La Chapelle Sur Erdre"
+    },
+    {
+      "id": "idweb",
+      "value": "08-272116",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "implantation du fonds r\u00e9gional d'art contemporain sur le site des subsistances militaires \u00e0 Orl\u00e9ans"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295173",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "maintenance et \u00e9volutions des licences tivoli storage manager pour le gie agora et ses adh\u00e9rents \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298268",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "28 Travaux de renouvellement des installations electriques basse tension des usines \u00e0 Vert En Drouais"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298243",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de construction d'un bassin de stockage des eaux pluviales et d'am\u00e9nagements g\u00e9n\u00e9raux de la rue du docteur emile roux \u00e0 Fresnes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-187925",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "22 mission de ma\u00eetrise d'oeuvre pour la r\u00e9novation des installations exp\u00e9rimentales du site des Croix \u00e0 Ploufragan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278629",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9alisation et diffusion du magazine de la communaut\u00e9 d'agglom\u00e9ration \u00e0 Besan\u00e7on"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278425",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance des stations de relevage des b\u00e2timents communaux \u00e0 Toulouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278813",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Etablissement des impacts sur la ligne b existante du prolongement de la ligne b de val jusqu'\u00e0 lab\u00e8ge innop\u00f4le pour le S.M.A.T."
+    },
+    {
+      "id": "idweb",
+      "value": "08-271381",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise \u00e0 disposition gratuite de mobiliers urbains publicitaires et non publicitaires \u00e0 Louveciennes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296824",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Transports sanitaires \u00e0 Montier En Der"
+    },
+    {
+      "id": "idweb",
+      "value": "08-239329",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de mat\u00e9riel \u00e0 usage unique pour l'activit\u00e9 cardio vasculaire pour le centre hospitalier \u00e0 Mulhouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281579",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "45 Acquisition de r\u00e9cepteurs num\u00e9riques et satellites, d'accessoires et de logiciels pour r\u00e9cepteurs et de casques d'\u00e9coute au profit de l'\u00e9tat-major des arm\u00e9es \u00e0 Orleans"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294629",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien courant de peinture vitrerie tenture sur la region cleres / yerville / fontaine le dun"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295823",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Alimentation en eau potable, renouvellement de canalisations commune de Lugny-Champagne, reprise des branchements sous chauss\u00e9e commune de Garigny"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297484",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement ilot errobi - quartier urdazuri \u00e0 St-Jean-De-Luz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-287936",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'ouvrages d'art pour la desserte ferr\u00e9e de la zac des portes de Chambord pour la communaut\u00e9 de communes \u00e0 Mer"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299438",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de ma\u00eetrise d'oeuvre pour les travaux de r\u00e9habilitation des fa\u00e7ades et des installations de traitement thermique et \u00e9lectrique de l'immeuble du si\u00e8ge de la CAF \u00e0 La Rochelle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299340",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "pessac p\u00f4le intermodal fermeture du puits de jour"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280143",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour l'op\u00e9ration de restructuration d'ensemble - extension lyc\u00e9e L. Michel \u00e0 Epinay sur Seine"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298229",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "protection des remont\u00e9es de l'\u00e9tanch\u00e9it\u00e9 de la couverture du r\u00e9servoir des lilas \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298148",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation d'\u00e9valuation des risques psychosociaux au sein de la Direction des Journaux Officiels \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296769",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Achat pour la ville de diverses fournitures de bureau \u00e0 Arles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299420",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Remplacement des menuiseries ext\u00e9rieures sur le patrimoine d'HABITAT 17 \u00e0 La Rochelle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298136",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux pour la restauration de la fa\u00e7ade sud de la pr\u00e9fecture de police \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298905",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien et de maintenance des immeubles pour les interventions de grande hauteur \u00e0 Malakoff"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299319",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "divers groupes - r\u00e9fection \u00e9tanch\u00e9it\u00e9 des terrasses \u00e0 Caen"
+    },
+    {
+      "id": "idweb",
+      "value": "08-243283",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture, livraison et r\u00e9paration de bottes d'incendie multi-usages pour sapeurs-pompiers \u00e0 Neuville-sur-Oise."
+    },
+    {
+      "id": "idweb",
+      "value": "08-280116",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "77 Restructuration cibl\u00e9e du lyc\u00e9e Uruguay France \u00e0 Avon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278199",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour l'am\u00e9nagement et l'extension du b\u00e2timent de l'ancienne Douane \u00e0 Lauterbourg"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296879",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9lioration des postes de refoulement des eaux us\u00e9es \u00e0 Sisteron"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297413",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de voirie \u00e0 St Jean De Luz"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298126",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux pour l'am\u00e9nagement du terrain situ\u00e9 rue Jean Fran\u00e7ois Lema\u00eetre mis \u00e0 disposition de la CAF de la Seine Saint Denis \u00e0 Bobigny"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279428",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "remplacement de la couverture s\u00e8che des ateliers municipaux \u00e0 Grande-Synthe"
+    },
+    {
+      "id": "idweb",
+      "value": "08-271145",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9alisation d'un groupe scolaire dans le quartier nord de beaulieu \u00e0 Chartres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-275944",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Autobus standards \u00e0 plancher surbaiss\u00e9, motorisation diesel destin\u00e9s \u00e0 l'exploitation du r\u00e9seau de transport en commun de l'agglom\u00e9ration valentinoise \u00e0 Valence"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299482",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9novation d'un immeuble de bureaux de la CAF \u00e0 Jonzac"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289102",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement d'un carrefour giratoire avec ouvrages d'art \u00e0 Mont-De-Marsan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-276093",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Service de restauration de documents d'archives \u00e0 Bourges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278855",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de s\u00e9curisation des terrasses des b\u00e2timents de l'h\u00f4tel du d\u00e9partement sauf la b\u00e2timent f et pose de garde-corps en terrasses et de passerelles \u00e0 Rouen"
+    },
+    {
+      "id": "idweb",
+      "value": "08-200696",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de mat\u00e9riel \u00e0 usage unique pour l'endoscopie digestive pour l'Hopital Emile Muller \u00e0 Mulhouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-271331",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission SPS pour les travaux d'am\u00e9nagement des quartiers de Rech\u00e8vres et la Roseraie \u00e0 Chartres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297964",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de produits laitiers et ovo-produits n\u00e9cessaires pour la p\u00e9riode du 1er juillet 2008 au 30 juin 2010 pour le centre hospitalier de Redon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296209",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de gros entretien des voiries - programme 2008 \u00e0 Laval"
+    },
+    {
+      "id": "idweb",
+      "value": "08-265456",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Location et r\u00e9alisation de motifs, montage et d\u00e9montage, entretien des installations avec raccordement \u00e9lectrique \u00e0 Mulhouse"
+    },
+    {
+      "id": "idweb",
+      "value": "08-290177",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de chariots \u00e9l\u00e9vateurs pour le Etbs Technique de Bourges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-294963",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "assurance dommages ouvrage construction d'un d\u00e9p\u00f4t de bus et d'un atelier de maintenance \u00e0 Outreau"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298645",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition de livres pour la m\u00e9diath\u00e8que d'Enghien-Les-Bains"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297189",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation de foncier - contrats d'assurances - ann\u00e9e 2009 pour la ville de Hy\u00e8res"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279447",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Entretien des appareils \u00e9l\u00e9vateurs en service dans les b\u00e2timents de la ville et du ccas de Versailles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-272286",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "service de transport scolaire pour les besoins de la Communaut\u00e9 d'Agglom\u00e9ration \u00e0 Sainte-Luce"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280007",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission compl\u00e8te de ma\u00eetrise d'oeuvre en vue de la construction d'environ 27 logements - garages et jardins privatifs avec bassin de stockage ep \u00e0 Mont\u00e9limar"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298370",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Ma\u00eetrise d'oeuvre pour les travaux de reconstruction du gymnase apr\u00e8s sinistre \u00e0 Magny en Vexin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-283058",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission d'assistance cartographique de la collectivit\u00e9 territoriale de corse dans le cadre des phases d'adoption et d'approbation du padduc"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299192",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'un centre de secours principal \u00e0 Baguer-Pican"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298494",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de consommables pour mat\u00e9riel informatique \u00e0 Strasbourg"
+    },
+    {
+      "id": "idweb",
+      "value": "08-242820",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture et livraison de combustible pour les agents du SDIS 95 \u00e0 Cergy Pontoise"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280272",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mise \u00e0 disposition et maintenance d'abris voyageurs, de mobiliers support d'information et r\u00e9alisation de campagnes d'informations municipales \u00e0 S\u00e9lestat"
+    },
+    {
+      "id": "idweb",
+      "value": "08-292678",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9alisation de diff\u00e9rentes prestations n\u00e9cessaires \u00e0 l'organisation d'un colloque sur le th\u00e8me de \" la r\u00e9gulation \u00e9conomique et financi\u00e8re \" \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-185168",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Maintenance du parc automobile du CHU de Nantes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281937",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "rd 901 - rue du pavillonconstruction d'un tourne \u00e0 gauche et construction d'un cheminement pi\u00e9toncommune de saint pierre eglise"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298116",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "d\u00e9p\u00f4t des essences d'Aulnat - r\u00e9habilitation d'un logement \u00e0 Clermont-Ferrand"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295991",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition de caches de dressage de base pour les \u00e9quipes cynotechniques de l'arm\u00e9e de terre \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-273582",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9nagement en zone 30 \u00e0 Saint Andr\u00e9"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278357",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de titre de transports pour les agents se d\u00e9pla\u00e7ant pour motif de service et sans paiement pr\u00e9alable de leur part pour les Parcs Nationaux de France \u00e0 Montpellier"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295027",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de remplacement au coup par coup des revetements de sols - divers groupes du d\u00e9partement de la seine-maritime"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279586",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "77 Restructuration cibl\u00e9e du lyc\u00e9e Uruguay France \u00e0 Avon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296075",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Renouvellement des licences d'utilisation et \u00e0 la maintenance du logiciel CIVITAS Ressources Humaines \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279439",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "attribution d'une mission de ma\u00eetrise d'oeuvre en vue de la r\u00e9alisation d'un centre social et d'une halte garderie \u00e0 Sartrouville"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298008",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestations de tri inventaire num\u00e9risation de dossiers de production pour l'Institut National de l'Audiovisuel \u00e0 Bry sur Marne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296014",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Confection de tables de pansage au profit de certaines r\u00e9gions de l'arm\u00e9e de terre \u00e0 Bordeaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297487",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Adaptation du SEV \u00e0 son environnement hydraulique et am\u00e9nagements hydrauliques du bras du Gave pour les besoins de la communaut\u00e9 d'agglom\u00e9ration \u00e0 Pau"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296515",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Acquisition d'un mammographe analogique \u00e0 Privas"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296529",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de d\u00e9molition des logements et locaux annexes, rues Rabelais, de Lattre de Tassigny, Diderot, Willemain, \u00e0 Li\u00e9vin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278105",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission de ma\u00eetrise d'oeuvre technique pour la mise aux normes des installations techniques du ch\u00e2teau du Haut-Koenigsbourg \u00e0 Orschwiller"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297070",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Location de circuits automobiles et infrastructures pour assurer la formation en terme de technique de conduite automobile pour le Minist\u00e8re de l'Int\u00e9rieur \u00e0 Lognes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295899",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition, maintenance et support du logiciel high performance unload (hpu) \u00e0 Montauban"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296482",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "extension du centre eliane teumbeuf pour cr\u00e9ation d'une salle festive \u00e0 Oissel"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279937",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Organisation, gestion et animation concernant des actions \u00e0 carat\u00e8res sociales, culturelles et d'animation pour la ville de Dammartin En Goele"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296913",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Gaserne Girard remplacement des \u00e9quipements sanitaires et de la robinetterie des logements \u00e0 Besan\u00e7on"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278970",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Contrat groupe d'assurance statutaire pour le Centre D\u00e9partemental de Gestion \u00e0 Agen"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278656",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestations d'entretien de terrains, plantations d'espaces verts et d'am\u00e9nagements paysagers, plantation d'arbres et d'arbustes... sur le territoire de la Communaut\u00e9 urbaine \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278076",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission de ma\u00eetrise d'oeuvre pour le projet de construction d'une unit\u00e9 centrale de production alimentaire pr\u00e9parant environ 700 000 repas par an, \u00e0 Bourges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278916",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "\u00e9limination et valorisation des d\u00e9chets m\u00e9nagers et assimil\u00e9s, collecte des OM et s\u00e9lective, transport, tri, stockage, exp\u00e9dition dans les fili\u00e8res pour les besoins de Ct\u00e9 de Com \u00e0 Monts"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279795",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestations de t\u00e9l\u00e9communications lots 6 et 7 \u00e0 Neuilly Sur Seine"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279683",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture de denr\u00e9es alimentaires pour les services du c.c.a.s. \u00e0 Dax"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298643",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestations de secours h\u00e9liport\u00e9s saison 2008/2009 et travail a\u00e9rien de d\u00e9clenchement pr\u00e9ventif des avalanches \u00e0 Val d'Is\u00e8re"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289078",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de voirie \u00e0 Mont-De-Marsan"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297362",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "00 installation et maintenance des r\u00e9seaux de t\u00e9l\u00e9vision des \u00e9tablissements soutenus par le service des moyens g\u00e9n\u00e9raux \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277088",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "\u00e9quipement de scintigraphie \u00e9quine pour le Centre d'imagerie et de Recherche sur les Affections Locomotrices \u00c9quines \u00e0 Goustranville"
+    },
+    {
+      "id": "idweb",
+      "value": "08-277794",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture et pose de mobilier urbain - signalisation verticale sur le territoire de la Com. d'Agglom\u00e9ration du Pays de Flers"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297097",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "prestations d'\u00e9valuation des agents de direction \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295417",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Beauvais - quartier argentine - b\u00e2t. c/1 - 2 au 16, rue du maine - 120 logements - travaux de remplacement des menuiseries ext\u00e9rieures et occultations"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280142",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "abonnements,raccordements et communications sortantes vers l'ensemble des destinations \u00e0 partir de l'autocommutateur principal de la cit\u00e9 \u00e0 Tulle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297710",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux g\u00e9n\u00e9raux sur l'ensemble du patrimoine \u00e0 Romainville"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289114",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement d'un parking paysag\u00e9 et th\u00e9\u00e2tre de verdure \u00e0 Saint-Pierre-Du-Mont"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298787",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'am\u00e9lioration de trois b\u00e2timents d'habitation de la r\u00e9sidence les lampes \u00e0 Meudon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-298495",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux concerne l'adaptation de salles de cours et la s\u00e9curisation incendie dans le b\u00e2timent 043 pour les Etablissement du G\u00e9nie \u00e0 Bourges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297620",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "marche de travaux de restructuration phase 2 du lycee jaccques brel \u00e0 Lormont"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296241",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Cartographie du r\u00e9seau \u00e9cologique sur le territoire de la R\u00e9gion Centre \u00e0 Orl\u00e9ans"
+    },
+    {
+      "id": "idweb",
+      "value": "08-125780",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de prestations d'audit et d'assistance \u00e0 ma\u00eetrise d'ouvrage pour la s\u00e9curisation de b\u00e2timents communaux \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278671",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de grosses r\u00e9parations dans les centres d'incendie et de secours pour le SDIS \u00e0 Lille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278853",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Exploitation et maintenance des installations de distribution de la chaleur et de l'eau chaude sanitaire des ensembles immobilier de Saint-Ouen"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295497",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Impression du journal municipal \" le S\u00e9vrien \", de ses compl\u00e9ments (tir\u00e9s \u00e0 part ou encarts), ainsi que du guide pratique de la ville \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293717",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "construction d'une cr\u00e8che municipale de 35 places \u00e0 Plan d'Orgon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-251441",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "construction d'un nouveau b\u00e2timent pour nouveaux pas de tir \u00e0 Ar\u00e7onnay"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295190",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Am\u00e9lioration de la s\u00e9curit\u00e9 incendie de l'immeuble massilon, 1 \u00e0 5 rue massilon \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295667",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "62 renouvellement de la station vor c de boulogne par un vor thales de nouvelle g\u00e9n\u00e9ration \u00e0 Bourthes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297624",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de restructuration au lyc\u00e9e Jacques Brel \u00e0 Lormont"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278808",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Nettoyage des locaux et vitreries du conseil g\u00e9n\u00e9ral du Cher \u00e0 Bourges"
+    },
+    {
+      "id": "idweb",
+      "value": "08-299301",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de protections \u00e0 usage unique pour incontinents adultes et produits d'hygi\u00e8ne associ\u00e9s \u00e0 Neurey les la Demie"
+    },
+    {
+      "id": "idweb",
+      "value": "08-292106",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'extension d'un centre d'accueil de jour en psychiatrie adulte \u00e0 Agde"
+    },
+    {
+      "id": "idweb",
+      "value": "08-293891",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux de d\u00e9pollution pyrotechnique du champ de manoeuvres et du stand de tir du B\u00eale \u00e0 Nantes"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280149",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "maitrise d'oeuvre pour l'am\u00e9nagement d'un p\u00f4le professionnel de l'argile dans le cadre de la r\u00e9habilitation des locaux du march\u00e9 de gros situ\u00e9 quartier de la tourtelle \u00e0 Aubagne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296693",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture et livraison de produits d'entretien pour les locaux de la mairie d'Arles"
+    },
+    {
+      "id": "idweb",
+      "value": "08-253858",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Compl\u00e8ment \u00e0 l'architecture en technologie to/ip d\u00e9j\u00e0 install\u00e9e \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-297899",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "R\u00e9alisation des travaux de cr\u00e9ation du casier n\u00b05 sur l'ISDND de Grospierres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-281343",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'am\u00e9nagement paysager du quartier du Bousquet \u00e0 Bassens"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296147",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Requalification de l'axe Bouvry - Hentg\u00e8s, du parvis de l'H\u00f4tel de Ville et de la place de la Coll\u00e9giale \u00e0 Seclin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279333",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Fourniture, installation et entretien de sanitaires publics automatiques \u00e0 Dax"
+    },
+    {
+      "id": "idweb",
+      "value": "08-267694",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Location et entretien d'un photocopieur de plan pour l'ann\u00e9e 2009 \u00e0 Lyon"
+    },
+    {
+      "id": "idweb",
+      "value": "08-278644",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Transports sanitaires h\u00e9liport\u00e9s pour le compte de l'ap-hm dans le cadre des activit\u00e9s du samu \u00e0 Marseille"
+    },
+    {
+      "id": "idweb",
+      "value": "08-292539",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Remplacement du syst\u00e8me de s\u00e9curit\u00e9 incendie (SSI) de la paroi Sud de l'Arche de la D\u00e9fense et des Collines Sud \u00e0 La D\u00e9fense"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296712",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "requalification de la friche industrielle (doublet)- 1\u00e8re phase mise en s\u00e9curit\u00e9 \u00e0 La Sentinelle"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279329",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mission de coordination et de protection de la sant\u00e9/r\u00e9habilitation de la halle 18ter, 20, 20bis rue pajol \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295873",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Construction d'un foyer socio-culturel \u00e0 Sept\u00e8mes-les-Vallons"
+    },
+    {
+      "id": "idweb",
+      "value": "08-271926",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Assurance pour op\u00e9ration de restructuration du plateau technique avec reconstruction des blocs op\u00e9ratoire et obst\u00e9trical et cr\u00e9ation d'un p\u00f4le, h\u00f4pital Broussais pour les besoins du CH \u00e0 Saint-Malo"
+    },
+    {
+      "id": "idweb",
+      "value": "08-288550",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'entretien courant de ma\u00e7onnerie \u00e0 Rouen"
+    },
+    {
+      "id": "idweb",
+      "value": "08-141822",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien et de r\u00e9am\u00e9nagement des espaces ext\u00e9rieurs, la r\u00e9novation de l'\u00e9clairage et des cl\u00f4tures rattach\u00e9s \u00e0 l'ensemble des b\u00e2timents communaux \u00e0 S\u00e8vres"
+    },
+    {
+      "id": "idweb",
+      "value": "08-268540",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "renforcement du r\u00e9seau d'adduction d'eau potable de l'ossature ouest - rn 193 \u00e0 Lucciana, Borgo, Biguglia et Furiani"
+    },
+    {
+      "id": "idweb",
+      "value": "08-296578",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Travaux d'am\u00e9nagements ext\u00e9rieurs du giratoire de Cracovie \u00e0 Li\u00e9vin"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279465",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux d'entretien, de r\u00e9parations et de mise en conformit\u00e9 (dossier t\u00e9l\u00e9chargeable) \u00e0 Tourcoing"
+    },
+    {
+      "id": "idweb",
+      "value": "08-279405",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "gardiennage et s\u00e9curisation des \u00e9quipements du p\u00f4le animation et gestion des \u00e9quipements sportifs \u00e0 Grenoble"
+    },
+    {
+      "id": "idweb",
+      "value": "08-280033",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Prestation de commissaire aux comptes et de son suppl\u00e9ant qui r\u00e9aliseront une mission de commissariat aux comptes pour les exercices 2008 \u00e0 2013 pour le FFIPSA."
+    },
+    {
+      "id": "idweb",
+      "value": "08-296646",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "assistance \u00e0 la ma\u00eetrise d'ouvrage du service des ressources humaines lors de la mise en oeuvre du volet 2 de rh21 \u00e0 Paris"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302645",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "construction d'une cr\u00e8che:lot pl\u00e2trerie,faux-plafonds,isolation,cloisons \u00e0 Aniane"
+    },
+    {
+      "id": "idweb",
+      "value": "08-295242",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de travaux au centre de d\u00e9tention de claivaux pour l'installation d'un reseau r.i.a. \u00e0 Dijon Cedex"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302630",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Entretien des syst\u00e8mes de d\u00e9senfumage et des alarmes incendie"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302636",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "travaux de remplacement des portes cabines de marque otis type m8284 1600 kg \u00e0 Armenti\u00e8res Cedex"
+    },
+    {
+      "id": "idweb",
+      "value": "08-289028",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mission contr\u00f4le contrat concession et assistance technique et administrative"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302493",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "Mise A Jour Du Schema Directeur De L'Assainissement De La Commune D'Annecy Le Vieux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302554",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "fourniture de denr\u00e9es alimentaires \u00e0 Donzy"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302124",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "march\u00e9 de ma\u00eetrise d'oeuvre pour la d\u00e9tection incendie et l'\u00e9clairage de s\u00e9curit\u00e9 du centre p\u00e9nitentiaire de clairvaux. \u00e0 Dijon Cedex"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302558",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "passage sous vo\u00fbte rue du ch\u00e2teau \u00e0 L'Escar\u00e8ne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302578",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "am\u00e9nagement b\u00e2timent la colombe: restauration d'une salle existante; am\u00e9nagement des abords \u00e0 L'Escar\u00e8ne"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302563",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "acquisition de deux v\u00e9hicules"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302421",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "transports 2009 \u00e0 Cond\u00e9 Sur L'Escaut"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302454",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "carburants 2009-2010 \u00e0 Cond\u00e9 Sur L'Escaut"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302545",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "organisation d'une classe de d\u00e9couverte \u00e0 Le Coudray-Montceaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302571",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "remplacement de mat\u00e9riels de cuisine pour le restaurant du site de tours \u00e0 Tours"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302603",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "construction d'une d\u00e9chetterie sur la commune de montpeyroux \u00e0 Montpeyroux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-300036",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "mapa 08S0232- travaux topographiques dans les propri\u00e9t\u00e9s et parcs d\u00e9partementaux"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302376",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "abattage d'arbres au jardin public \u00e0 Sabl\u00e9 Sur Sarthe"
+    },
+    {
+      "id": "idweb",
+      "value": "08-301894",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "2008047 - le breuil (vernizy et voisottes) ciry le noble (les touillards) - mise en oeuvre de l'assainissement collectif - mission de ma\u00eetrise d'oeuvre \u00e0 Le Creusot"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302353",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "combustible et carburant pour la commune de Mirebeau"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302399",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "r\u00e9am\u00e9nagement de l'accueil du centre de paiement de luce - 27 rue d'aquitaine"
+    },
+    {
+      "id": "idweb",
+      "value": "08-302382",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v110.xsd",
+      "description": "renouvellement des polices d'assurances \u00e0 Mirebeau"
+    }
+  ]
+}

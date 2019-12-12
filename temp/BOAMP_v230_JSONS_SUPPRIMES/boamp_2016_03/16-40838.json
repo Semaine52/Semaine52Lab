@@ -1,0 +1,18 @@
+{
+  "nbItemsRetournes": 2,
+  "nbItemsExistants": 2,
+  "item": [
+    {
+      "id": "idweb",
+      "value": "16-25553",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "location maintenance avec option d'achat au terme du march\u00e9 d'un serveur d'application destin\u00e9 au service d'imagerie m\u00e9dicale du CHI des alpes du sud, site de Gap (rectificatif)"
+    },
+    {
+      "id": "idweb",
+      "value": "16-25526",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Travaux de fourniture et de mise en oeuvre d'un dispositif de vid\u00e9o protection urbaine sur la commune de saint aubin \u00e0 Saint-Aubin"
+    }
+  ]
+}

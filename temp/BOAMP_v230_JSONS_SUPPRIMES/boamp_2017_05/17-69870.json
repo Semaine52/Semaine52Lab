@@ -1,0 +1,66 @@
+{
+  "nbItemsRetournes": 10,
+  "nbItemsExistants": 354,
+  "item": [
+    {
+      "id": "idweb",
+      "value": "19-977",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "March\u00e9 de ma\u00eetrise d'oeuvre dans le cadre de travaux de d\u00e9samiantage et d\u00e9molition"
+    },
+    {
+      "id": "idweb",
+      "value": "19-310",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Prestations intellectuelles (CT, CSPS, OPC, AMO) pour la restructuration de l 'externat du lyc\u00e9e Berthelot \u00e0 Chatelerault"
+    },
+    {
+      "id": "idweb",
+      "value": "18-175321",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "conception et r\u00e9alisation de pr\u00e9figurations urbaines (am\u00e9nagements urbains et fonctions d'animation et d'information) sur le p\u00f4le cath\u00e9dral \u00e0 poitiers"
+    },
+    {
+      "id": "idweb",
+      "value": "19-2391",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "conception et r\u00e9alisation de pr\u00e9figurations urbaines (am\u00e9nagements urbains et fonctions d'animation et d'information) sur le p\u00f4le cath\u00e9dral \u00e0 poitiers (rectificatif)"
+    },
+    {
+      "id": "idweb",
+      "value": "19-3766",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Voirie 2018"
+    },
+    {
+      "id": "idweb",
+      "value": "19-3672",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Acquisition et maintenance des pare-feux du Cned"
+    },
+    {
+      "id": "idweb",
+      "value": "19-3341",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Le pr\u00e9sent march\u00e9 a pour objet des travaux de d\u00e9samiantage et de d\u00e9construction"
+    },
+    {
+      "id": "idweb",
+      "value": "19-926",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Signal\u00e9tique futur Palais de justice de Poitiers"
+    },
+    {
+      "id": "idweb",
+      "value": "19-5870",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "interventions de conservation pr\u00e9ventive et curative sur les collections du mus\u00e9e sainte-croix en vue de leur transfert"
+    },
+    {
+      "id": "idweb",
+      "value": "19-4126",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Remplacement des tuyaux d'alimentations d'eau, mise en peinture et remplacement de l'\u00e9clairage de la grande salle Omnisports de Ch\u00e2tellerault"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "nbItemsRetournes": 10,
+  "nbItemsExistants": 570,
+  "item": [
+    {
+      "id": "idweb",
+      "value": "19-1113",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Traitement m\u00e9canique de la v\u00e9g\u00e9tation des rivi\u00e8res, digues, canaux, barrages et sites naturels"
+    },
+    {
+      "id": "idweb",
+      "value": "19-340",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Assistance juridique, financi\u00e8re, administrative et technique \u00e0 Saint-Louis Agglom\u00e9ration pendant la phase de cl\u00f4ture et garantie de parfait ach\u00e8vement du prolongement de la ligne 3 du tramway entre B"
+    },
+    {
+      "id": "idweb",
+      "value": "19-3316",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "concours restreint pour la restructuration et l'extension partielle d'\u00e9quipements structurants centraux (mairie- ecoles-p\u00e9riscolaire)"
+    },
+    {
+      "id": "idweb",
+      "value": "18-172206",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "accord-cadre relatif a des prestations de maitrise d'oeuvre (hors loi mop) afferentes aux travaux d'entretien courant de maintenance, de mise en conformite et d'amenagements ponctuels"
+    },
+    {
+      "id": "idweb",
+      "value": "19-5005",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "R\u00e9novation d'un hall de sport"
+    },
+    {
+      "id": "idweb",
+      "value": "19-3860",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "l'objet des pr\u00e9sents march\u00e9s est la r\u00e9alisation de toutes les op\u00e9rations concourant \u00e0 l'impression, au faconnage, au conditionnement et \u00e0 la livraison de travaux"
+    },
+    {
+      "id": "idweb",
+      "value": "19-1106",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "contr\u00f4le technique des constructions"
+    },
+    {
+      "id": "idweb",
+      "value": "19-2856",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Traduction \u00e9crite de documents de l'allemand vers le fran\u00e7ais et du fran\u00e7ais vers l'allemand dans le cadre des missions de la DREAL Grand Est \u00e0 l'international"
+    },
+    {
+      "id": "idweb",
+      "value": "19-5273",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "Contrats d'assurance pour les H\u00f4pitaux Civils de Colmar"
+    },
+    {
+      "id": "idweb",
+      "value": "19-6643",
+      "schema": "http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd",
+      "description": "COLMAR (68) - Entretien des espaces verts des terrains d'entrainement et des champs de tir relevant de la Base de D\u00e9fense."
+    }
+  ]
+}

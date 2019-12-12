@@ -1,0 +1,516 @@
+{
+  "gestion": {
+    "reference": {
+      "idweb": "19-50541",
+      "typeavis": {
+        "famille": {
+          "mapa": null,
+          "fns": null,
+          "joue": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<JOUE xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+          "dsp": null,
+          "divers": null
+        },
+        "perimetre": {
+          "cmp2006": null,
+          "cmp2006DEFENSE": null,
+          "directive18": null,
+          "directive17": null,
+          "directive81": null,
+          "directive23": null,
+          "directive24": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<DIRECTIVE-24 xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+          "directive25": null,
+          "dsp": null,
+          "autre": null
+        },
+        "nature": {
+          "preinformation": null,
+          "profilacheteur": null,
+          "appeloffre": {
+            "standard": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<STANDARD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+            "concours": null,
+            "periodique": null,
+            "qualification": null,
+            "sad": null,
+            "concession": null,
+            "concessionnaire": null
+          },
+          "intentionconclure": null,
+          "attribution": null,
+          "soustraitance": null,
+          "modification": null,
+          "qualification": null,
+          "rectificatif": null,
+          "periodique": null,
+          "autre": null
+        },
+        "statut": {
+          "initial": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<INITIAL xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+          "rectificatif": null,
+          "annulation": null,
+          "modification": null
+        }
+      }
+    },
+    "marche": null,
+    "nomhtml": "19-50541.html",
+    "indexation": {
+      "datepublication": 1559426400000,
+      "datelimitereponse": null,
+      "datefindiffusion": 1561932000000,
+      "classes": null,
+      "descripteurs": {
+        "descripteur": [
+          {
+            "code": 113,
+            "libelle": "Equipement sportif"
+          }
+        ]
+      },
+      "criteressociauxenv": null,
+      "deppublication": [
+        "21",
+        "25"
+      ],
+      "depprestation": null,
+      "resumeobjet": "Acquisition, livraison et installation d'\u00e9quipements sportifs \u00e0 destination des lyc\u00e9es de la r\u00e9gion Bourgogne-Franche-Comt\u00e9"
+    }
+  },
+  "donnee": {
+    "identite": {
+      "denomination": "REGION BOURGOGNE FRANCHE COMTE",
+      "codeidentnational": null,
+      "correspondant": null,
+      "contact": "Pauline PETITJEAN",
+      "adjudicateurnuts": "FRC",
+      "adresse": "4 square Castan \u0096 CS 51857",
+      "cp": "25031",
+      "ville": "BESANCON CEDEX",
+      "pays": null,
+      "tel": "(+33) 3-80-44-40-10",
+      "poste": null,
+      "fax": null,
+      "mel": "pauline.petitjean@bourgognefranchecomte.fr",
+      "url": "http://www.bourgognefranchecomte.fr",
+      "urlprofilacheteur": "http://www.marches.e-bourgogne.fr",
+      "urlinformation": null,
+      "urlparticipation": "http://www.e-bourgogne.fr",
+      "urldocument": "http://www.marches.e-bourgogne.fr",
+      "urloutillogiciel": null,
+      "agitpourautrecompteoui": null,
+      "agitpourautrecomptenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<AGIT_POUR_AUTRE_COMPTE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "loicompteautrepays": null,
+      "organismeacheteurcentraloui": null,
+      "organismeacheteurcentralnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<ORGANISME_ACHETEUR_CENTRAL_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>"
+    },
+    "typeorganisme": null,
+    "typepouvoiradjudicateur": {
+      "minautoritenationale": null,
+      "agencenational": null,
+      "autotriteregional": null,
+      "agenceregional": null,
+      "orgdroitpublic": null,
+      "institutioneuropeenne": null,
+      "autre": "Centrale d'achat"
+    },
+    "activiteprincipale": {
+      "pouvoiradjudicateur": {
+        "deforACTSERVADMPUBOrSANTE": [
+          {
+            "name": "ACT_SERV_ADM_PUB",
+            "declaredType": "java.lang.Object",
+            "scope": "fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication",
+            "value": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<ACT_SERV_ADM_PUB xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+            "nil": false,
+            "globalScope": false,
+            "typeSubstituted": true
+          }
+        ]
+      },
+      "entiteadjudicatrice": null
+    },
+    "objet": [
+      {
+        "titremarche": "Acquisition, livraison et installation d'\u00e9quipements sportifs \u00e0 destination des lyc\u00e9es de la r\u00e9gion Bourgogne-Franche-Comt\u00e9",
+        "refmarche": null,
+        "typemarche": {
+          "travaux": null,
+          "fournitures": {
+            "achat": null,
+            "loc": null,
+            "creditbail": null,
+            "locvente": null,
+            "plusieursformes": null
+          },
+          "service": null
+        },
+        "objetcomplet": "Le pr\u00e9sent accord-cadre a pour objet l\u0092acquisition, la livraison et l'installation d\u0092\u00e9quipements sportifs \u00e0 destination des lyc\u00e9es de la r\u00e9gion Bourgogne-Franche-Comt\u00e9. Il est pass\u00e9 dans le cadre d\u0092une proc\u00e9dure d\u0092appel d\u0092offre ouvert en application des articles L2124-2 et R2124-2 du code de la commande publique.Ces \u00e9quipements sont d\u00e9crits dans le cahier des clauses techniques particuli\u00e8res (C.C.T.P.).",
+        "cpv": [
+          {
+            "principal": "37450000",
+            "supplementaire": []
+          }
+        ],
+        "lieuexeclivr": [],
+        "delegation": null,
+        "ampoui": null,
+        "ampnon": null,
+        "aviscorrespond": null,
+        "avisimplique": null,
+        "accordcadre": null,
+        "variantesoui": null,
+        "variantesnon": null,
+        "caracteristiques": null,
+        "dureedelai": null,
+        "divenlots": {
+          "oui": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<OUI xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+          "offreun": null,
+          "offreplusieurs": null,
+          "offretous": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<OFFRE_TOUS xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+          "non": null
+        },
+        "nblotoffremax": null,
+        "nblotattribmax": null,
+        "lotsreservepouvoiradjudicateur": null,
+        "datelancement": null,
+        "lots": {
+          "lot": [
+            {
+              "num": "1",
+              "intitule": "Equipements sportifs int\u00e9rieur et ext\u00e9rieur ",
+              "description": "En application des articles R2162-1 \u00e0 R2162-6, R2162-13 et R2162-14 du code de la commande publique, le pr\u00e9sent accord cadre est conclu sous la forme d\u0092un accord-cadre \u00e0 bons de commande conclu avec un seul op\u00e9rateur \u00e9conomique par lot.Il est toutefois pr\u00e9cis\u00e9 que le Conseil r\u00e9gional de Bourgogne-Franche-Comt\u00e9 s\u0092engage sur un minimum de commande sur la dur\u00e9e totale de l\u0092accord-cadre de 50 000,00 HT.",
+              "cpv": [
+                {
+                  "principal": "37450000",
+                  "supplementaire": []
+                },
+                {
+                  "principal": "37452000",
+                  "supplementaire": []
+                },
+                {
+                  "principal": "37420000",
+                  "supplementaire": []
+                },
+                {
+                  "principal": "37535290",
+                  "supplementaire": []
+                }
+              ],
+              "codenuts": [
+                "FRC"
+              ],
+              "lieuprincipal": null,
+              "criteresattribution": {
+                "criterescctp": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CRITERES_CCTP xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+                "criteresqualite": null,
+                "criterescout": null,
+                "criteresprix": null
+              },
+              "quantite": null,
+              "valeur": null,
+              "valeurmin": null,
+              "valeurmax": null,
+              "dureemois": 48,
+              "dureejours": null,
+              "datedebut": null,
+              "datefin": null,
+              "dureesystemequalification": null,
+              "supquatreansjustification": null,
+              "suphuitansjustification": null,
+              "dateexecution": null,
+              "datelivraison": null,
+              "datelancement": null,
+              "renouvellementoui": null,
+              "renouvellementnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<RENOUVELLEMENT_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "renouvellementdescription": null,
+              "nbcandidats": null,
+              "variantesoui": null,
+              "variantesnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<VARIANTES_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "optionsoui": null,
+              "optionsnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<OPTIONS_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "optionsdescription": null,
+              "catalogueelectroniqueoui": null,
+              "catalogueelectroniquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CATALOGUE_ELECTRONIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "fondscommunautairesoui": null,
+              "fondscommunautairesnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<FONDS_COMMUNAUTAIRES_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "fondscommunautairesdescription": null,
+              "infocompl": null
+            },
+            {
+              "num": "2",
+              "intitule": "Equipements type \" musculation \" ",
+              "description": "En application des articles R2162-1 \u00e0 R2162-6, R2162-13 et R2162-14 du code de la commande publique, le pr\u00e9sent accord cadre est conclu sous la forme d\u0092un accord-cadre \u00e0 bons de commande conclu avec un seul op\u00e9rateur \u00e9conomique par lot.Il est toutefois pr\u00e9cis\u00e9 que le Conseil r\u00e9gional de Bourgogne-Franche-Comt\u00e9 s\u0092engage sur un minimum de commande sur la dur\u00e9e totale de l\u0092accord-cadre de 60 000 euro HT.",
+              "cpv": [
+                {
+                  "principal": "37440000",
+                  "supplementaire": []
+                },
+                {
+                  "principal": "37442900",
+                  "supplementaire": []
+                }
+              ],
+              "codenuts": [
+                "FRC"
+              ],
+              "lieuprincipal": null,
+              "criteresattribution": {
+                "criterescctp": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CRITERES_CCTP xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+                "criteresqualite": null,
+                "criterescout": null,
+                "criteresprix": null
+              },
+              "quantite": null,
+              "valeur": null,
+              "valeurmin": null,
+              "valeurmax": null,
+              "dureemois": 48,
+              "dureejours": null,
+              "datedebut": null,
+              "datefin": null,
+              "dureesystemequalification": null,
+              "supquatreansjustification": null,
+              "suphuitansjustification": null,
+              "dateexecution": null,
+              "datelivraison": null,
+              "datelancement": null,
+              "renouvellementoui": null,
+              "renouvellementnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<RENOUVELLEMENT_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "renouvellementdescription": null,
+              "nbcandidats": null,
+              "variantesoui": null,
+              "variantesnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<VARIANTES_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "optionsoui": null,
+              "optionsnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<OPTIONS_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "optionsdescription": null,
+              "catalogueelectroniqueoui": null,
+              "catalogueelectroniquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CATALOGUE_ELECTRONIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "fondscommunautairesoui": null,
+              "fondscommunautairesnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<FONDS_COMMUNAUTAIRES_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "fondscommunautairesdescription": null,
+              "infocompl": null
+            }
+          ]
+        },
+        "infocompl": null
+      }
+    ],
+    "procedure": {
+      "typeprocedure": {
+        "ouvert": {
+          "accelere": null
+        },
+        "restreint": null,
+        "negocie": null,
+        "procedureadapte": null,
+        "dialoguecompetitif": null,
+        "partenariatinnovation": null,
+        "concoursouvert": null,
+        "concoursrestreint": null,
+        "attribuesanspubjoue": null,
+        "attribueavecpubjoue": null,
+        "autre": null
+      },
+      "nbcandidats": {
+        "nbmaxoffre": null,
+        "nbminoffre": null,
+        "nboffre": null,
+        "limitationcandidats": null,
+        "candidatsdejaselectionnesoui": null,
+        "candidatsdejaselectionnesnon": null,
+        "reductionprogressiveoui": null,
+        "reductionprogressivenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<REDUCTION_PROGRESSIVE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+        "nomsparticipantsselectionnes": []
+      },
+      "avisimplique": {
+        "accordcadreoui": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<ACCORD_CADRE_OUI xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+        "accordcadrenon": null,
+        "sadoui": null,
+        "sadnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<SAD_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+        "sadautresacheteursoui": null,
+        "sadautresacheteursnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<SAD_AUTRES_ACHETEURS_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>"
+      },
+      "accordcadre": {
+        "plusieursoperateurs": null,
+        "unseuloperateur": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<UN_SEUL_OPERATEUR xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+        "nbmaxparticipants": null,
+        "supquatreansjustification": null
+      },
+      "attribpouvoiradjudicateursansnegociationoui": null,
+      "attribpouvoiradjudicateursansnegociationnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<ATTRIB_POUVOIR_ADJUDICATEUR_SANS_NEGOCIATION_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "enchereelectroniqueoui": null,
+      "enchereelectroniquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<ENCHERE_ELECTRONIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "ampoui": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<AMP_OUI xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "ampnon": null,
+      "fondscommunautairesoui": null,
+      "fondscommunautairesnon": null,
+      "urlreglesnationales": null,
+      "criteresattribution": null,
+      "marcheperiodiqueoui": null,
+      "marcheperiodiquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<MARCHE_PERIODIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "laureatattributaireoui": null,
+      "laureatattributairenon": null,
+      "decisionjurycontraignanteoui": null,
+      "decisionjurycontraignantenon": null,
+      "membrejury": []
+    },
+    "publicationanterieure": null,
+    "attribution": null,
+    "rectif": null,
+    "annulation": null,
+    "conditiondelai": {
+      "receptcandidat": null,
+      "receptoffres": 1561996800000,
+      "limiteenvoiinvit": null,
+      "validiteoffre": null,
+      "dureesystemequalification": null
+    },
+    "conditionrelativemarche": {
+      "cautionnement": null,
+      "financement": null,
+      "formejuridique": null,
+      "participationelectroniqueoui": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<PARTICIPATION_ELECTRONIQUE_OUI xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "participationelectroniquenon": null,
+      "autresconditionspartoui": null,
+      "autresconditionspartnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<AUTRES_CONDITIONS_PART_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "unitemonetaireeur": null,
+      "francaisseul": null,
+      "langues": {
+        "langue": [
+          "FR"
+        ],
+        "autres": null
+      }
+    },
+    "conditionparticipation": {
+      "critereselection": null,
+      "situationjuridique": null,
+      "situationjuridiquesst": null,
+      "capecomarcheoui": null,
+      "capecomarchenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CAP_ECO_MARCHE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "capeco": null,
+      "capecosst": null,
+      "capeconiveaumini": null,
+      "capeconiveauminisst": null,
+      "captechoffreoui": null,
+      "captechoffrenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<CAP_TECH_OFFRE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "captech": null,
+      "captechsst": null,
+      "captechniveaumini": null,
+      "captechniveauminisst": null,
+      "criteresparticipation": null,
+      "marchereserveoui": null,
+      "marchereservenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<MARCHE_RESERVE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "prestationreserveeoui": null,
+      "prestationreserveenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<PRESTATION_RESERVEE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "conditionparticuliereexecution": null,
+      "indicationobligatoirenomqualificationsoui": null,
+      "indicationobligatoirenomqualificationsnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<INDICATION_OBLIGATOIRE_NOM_QUALIFICATIONS_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "justificatifscandidat": null,
+      "eligiblemps": {
+        "oui": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<oui xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+        "non": null
+      }
+    },
+    "conditionparticipationsystmequalif": [],
+    "conditionadministrative": {
+      "referencemarche": null,
+      "etudesconcours": null,
+      "recompenseslaureatoui": null,
+      "recompenseslaureatnon": null,
+      "recompenseslaureat": null,
+      "indemnisationparticipants": null,
+      "conditionsremiseoffres": null,
+      "conditionsetmodepaiementobtenirdocuments": null,
+      "datelimiteobtentiondocuments": null,
+      "documentpayantoui": null,
+      "documentpayantnon": null,
+      "persouvertureoffresoui": null,
+      "persouvertureoffresnon": null,
+      "datedebutattribution": null,
+      "dateouvertureoffres": "2019-07-02",
+      "lieuouvertureoffres": null,
+      "abandonsadoui": null,
+      "abandonsadnon": null,
+      "finattributionoui": null,
+      "finattributionnon": null,
+      "envoielectroniqueavecoutiloui": null,
+      "envoielectroniqueavecoutilnon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>"
+    },
+    "renseignementscomplementaires": {
+      "commandeelectroniqueoui": null,
+      "commandeelectroniquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<COMMANDE_ELECTRONIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "facturationelectroniqueoui": null,
+      "facturationelectroniquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<FACTURATION_ELECTRONIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "paiementelectroniqueoui": null,
+      "paiementelectroniquenon": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<PAIEMENT_ELECTRONIQUE_NON xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+      "renscomplement": " Date d'envoi du pr\u00e9sent avis au JOUE et au BOAMP : 31 mai 2019.",
+      "proceduresrecoursprecisions": null,
+      "adressescomplementaires": {
+        "adresse": [
+          {
+            "type": {
+              "agitpourautrecompteoui": null,
+              "admintech": null,
+              "admin": null,
+              "tech": null,
+              "renseignements": null,
+              "documents": null,
+              "envoyeroffres": null,
+              "instancerecours": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<INSTANCE_RECOURS xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>",
+              "organemediation": null,
+              "rensrecours": null
+            },
+            "denomination": "Tribunal administratif de Besan\u00e7on",
+            "codeidentnational": null,
+            "correspondant": null,
+            "contact": null,
+            "adresse": "30, rue Charles Nodier",
+            "cp": "25044",
+            "ville": "BESANCON CEDEX",
+            "pays": null,
+            "codenuts": null,
+            "tel": "(+33) 3-81-82-60-00",
+            "poste": null,
+            "fax": null,
+            "mel": "greffe.ta-besancon@juradm.fr",
+            "url": "http://www.besancon.tribunal-administratif.fr"
+          },
+          {
+            "type": {
+              "agitpourautrecompteoui": null,
+              "admintech": null,
+              "admin": null,
+              "tech": null,
+              "renseignements": null,
+              "documents": null,
+              "envoyeroffres": null,
+              "instancerecours": null,
+              "organemediation": null,
+              "rensrecours": "<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n<RENS_RECOURS xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"/>"
+            },
+            "denomination": "Greffe du tribunal administratif de Besan\u00e7on",
+            "codeidentnational": null,
+            "correspondant": null,
+            "contact": null,
+            "adresse": "30, rue Charles Nodier",
+            "cp": "25044",
+            "ville": "BESANCON CEDEX",
+            "pays": null,
+            "codenuts": null,
+            "tel": "(+33) 3-81-82-60-00",
+            "poste": null,
+            "fax": null,
+            "mel": "greffe.ta-besancon@juradm.fr",
+            "url": "http://www.besancon.tribunal-administratif.fr"
+          }
+        ]
+      }
+    },
+    "modif": null,
+    "annexed1": null,
+    "annexed2": null,
+    "annexed3": null,
+    "annexed4": null
+  }
+}
